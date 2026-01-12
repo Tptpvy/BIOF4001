@@ -1,0 +1,3781 @@
+Dx/Px Description (HAMDCT),count
+Pneumonia (486:0),5176
+Urinary tract infection (599.0:0),1761
+Sepsis (038.9:5),1355
+AML (205.00:0),879
+Choledocholithiasis (574.50:0),823
+Cholangitis (576.1:0),790
+Respiratory failure (518.81:0),726
+Septic shock (785.59:2),722
+Liver abscess (572.0:0),669
+E. coli septicemia (038.42:0),639
+Fever (780.6:5),624
+"ICH, non-traumatic (431:0)",620
+Acute cholangitis (576.1:1),587
+Acute renal failure (584.9:0),577
+"Cancer of liver, primary (155.0:0)",559
+Malig lymphoma extranod/ solid org (202.80:0),537
+Cardiac arrest (427.5:0),502
+Acute cholecystitis (575.0:0),429
+Subendocardial AMI initial episode (410.71:1),401
+Septicemia (038.9:0),384
+Congestive heart failure (428.0:0),373
+Chronic renal failure (585.9:0),372
+"SAH, non-traumatic (430:0)",349
+Cerebral art occlusion + infarct (434.91:0),327
+Cancer of rectum (154.1:0),310
+Multiple myeloma (203.00:0),308
+Pseudomonas pneumonia (482.1:0),306
+Rupture abdominal aortic aneurysm (441.3:0),299
+"Duodenal ulcer, acute w hemorrhage (532.00:0)",298
+"Anterior AMI, initial (410.11:0)",286
+Necrotizing fasciitis (728.86:0),282
+COVID-19 (519.8:8),277
+Cancer of sigmoid colon (153.3:0),268
+Pyonephrosis (590.80:4),266
+Klebsiella pneumonia (482.0:0),261
+Cancer of pancreas - head (157.0:0),261
+Chronic airway obstruction (496:0),261
+Cholangiocarcinoma (156.9:1),245
+Acute pancreatitis (577.0:0),242
+CAPD peritonitis (996.68:1),241
+Acute lymphoid leukemia (204.00:0),232
+Neutropenic fever (288.0:5),231
+"Pneumonia, staphylococcus (482.4:0)",229
+Small bowel perforation (569.83:9),224
+Ischaemic bowel (557.9:1),219
+Infective endocarditis (421.0:999),214
+Acute pyelonephritis (590.10:0),204
+Pneumonia gram -ve bacteria (482.83:0),204
+# femur trochanter - closed (820.20:0),201
+Chest infection (519.8:1),198
+Cancer of bronchus and lung (162.9:0),198
+Intestinal obstruction (560.9:0),190
+"Inferior AMI, initial (410.41:0)",189
+GI hemorrhage (578.9:0),188
+Lymphosarcoma (200.10:0),187
+Abdominal pain (789.00:0),183
+Death (799.9:11),183
+"Cancer upper lobe, bronchus/ lung (162.3:0)",180
+Cellulitis & abscess of leg (682.6:0),180
+Acute hepatic failure (570:1),179
+Klebsiella septicemia (038.49:3),175
+Food/vomit pneumonitis (507.0:0),173
+Uncontrol type II DM ketoacidosis (250.12:0),173
+Esophageal varices hemorrhag (456.0:0),172
+COPD (496:1),172
+AML in complete remission (205.01:0),168
+"Cardiac arrest, abort/success resu (427.5:3)",166
+Gastritis (535.50:1),166
+Pancreatitis (577.0:6),166
+Pulmonary TB by micro exam (011.93:0),164
+Perforated sigmoid colon (569.83:7),160
+Pyelonephritis (590.80:0),160
+Cardiogenic shock (785.51:0),158
+Intestinal disorders (569.89:0),157
+Acute stomach ulcer w hemorrhage (531.00:0),157
+Gram negative septicemia (038.40:0),156
+Acute duodenal ulcer w perforation (532.10:0),156
+Pneumococcal pneumonia (481:0),153
+Clinical sepsis (038.9:1),152
+Calculus of ureter (592.1:0),148
+Closed # pelvis (808.8:0),147
+Lactic acidosis (276.2:2),147
+Acute cerebrovascular disease (436:0),144
+Duodena ulcer chronic w hemorrhage (532.40:0),142
+Cancer of female breast (174.9:0),141
+"Dissecting aneurysm, thoracic (441.01:0)",138
+Acute gastric ulcer w perforation (531.10:0),138
+Acute coronary syndrome (411.1:2),137
+No abnormality detected (V71.9:1),133
+"Transcervical fracture hip, closed (820.02:1)",126
+Leukemia (208.90:0),126
+SLE (710.0:0),126
+Influenza with pneumonia (487.0:0),124
+Chronic duoden ulcer+ perforation (532.50:0),123
+Cholelithiasis (574.90:0),120
+IO due to small bowel adhesion (560.81:3),117
+Gangrene of leg or foot (785.4:4),115
+Cerebral embolism with infarct (434.11:0),112
+Recurrent pyogenic cholangitis (576.1:4),112
+Cancer esophagus - thoracic (150.1:0),110
+Cancer of ascending colon (153.6:0),109
+Dengue (061:0),107
+Dissect thor/aortic pseudoaneurysm (441.01:3),107
+Bacteremia (790.7:0),106
+Cancer of nasopharynx (147.9:0),105
+Pneumonia E coli (482.82:0),104
+Anemia (285.9:0),104
+"Hydronephrosis, Rt (591:2)",104
+Malign neopl ovary (183.0:0),103
+Hematuria (599.7:0),102
+Cancer of pyloric antrum (151.2:0),101
+Decubitus ulcer (707.0:0),99
+Uncontro type II DM hyperglycaemia (250.82:1),98
+Acute lung edema (518.4:0),98
+Chronic gastric ulcer + perforate (531.50:0),96
+Neutropenic fever (780.6:3),96
+Subendocardial AMI (410.71:0),95
+Cancer of transverse colon (153.1:0),94
+Type II respiratory failure (518.81:2),93
+"Cancer lower lobe, bronchus/ lung (162.5:0)",92
+Type II DM (250.00:2),92
+Chronic IHD (414.9:0),92
+Influenza A (487.1:3),91
+Aspiration pneumonia (507.0:1),91
+Cl vault# cer lac+ prol LOC regain (800.14:0),90
+"Lymphoma, multi sites (202.88:0)",90
+Calculus of gallbladder (574.20:0),89
+Acute respiratory failure (518.81:4),89
+Cancer of gallbladder (156.0:0),87
+Acute duodenal ulcer (532.30:0),87
+Gangrene of ischemic bowel (557.0:3),86
+Myelodysplastic syndrome (238.7:2),85
+Atrial fibrillation (427.31:0),84
+Pleural effusion (511.9:0),84
+Cancer hepatic flexure of colon (153.0:0),84
+Acute gastric ulcer (531.30:0),83
+Acute pulm edema d/t heart failure (428.1:1),83
+Subacute bacterial endocarditis (421.0:3),83
+Acute appendicitis+ perito abscess (540.1:0),83
+Klebsiella pneumoniae septicemia (038.49:4),83
+Pelvic # closed / pelvic disrupt (808.43:0),83
+Unc beh neo brain / spinal (237.5:0),83
+Convulsion (780.32:1),82
+Grand mal-not intractable (345.10:0),82
+Esophageal varices (456.1:0),81
+AMI initial episode of care (410.91:0),81
+CBD stricture (576.2:4),80
+Pulmonary TB confirmed (011.96:0),80
+Fluid overload (276.6:0),79
+Metabolic acidosis (276.2:1),79
+Cancer rectosigmoid junction (154.0:0),78
+GB stone w acute cholecystitis (574.00:0),78
+ITP (287.3:2),78
+Pulmonary embolism (415.1:0),77
+Hepatic encephalopathy (572.2:1),77
+"Hydronephrosis, Lt (591:1)",77
+Sputum Retention (786.4:1),76
+Decreased general condition (799.4:1),76
+Renal calculi (592.0:0),75
+Renal failure (586:0),75
+SARS with atypical pneumonia (480.8:2),74
+Burn of face and head (941.00:0),74
+Abdominal aortic aneurysm (441.4:0),73
+URTI (465.9:1),72
+Intermediate coronary syndrome (411.1:0),71
+"Lymphosarcoma, multiple (200.18:0)",71
+Cancer extrahepatic bile ducts (156.1:0),71
+Dilated cardiomyopathy (425.4:1),71
+Cancer of descending colon (153.2:0),70
+Acute necrotizing pancreatitis (577.0:2),70
+IO due to adhesion (560.81:2),69
+Empyema (510.9:0),69
+Cancer of cecum (153.4:0),69
+Acute appendicitis (540.9:0),69
+CML (205.10:0),68
+"Fever, unknown origin (780.6:0)",67
+Heart failure (428.9:0),67
+Meningitis (322.9:0),67
+Chronic gastic bleeding ulcer (531.40:0),67
+Perforation of intestine (569.83:0),66
+Acute gangrenous cholecystitis (575.0:2),66
+Fecal peritonitis (567.8:2),66
+Cancer of cervix uteri (180.9:0),66
+Hemoperitoneum nontrauma (568.81:0),65
+Gangrene (785.4:0),65
+Dissecting aortic aneurysm (441.00:0),64
+Colitis (558.9:1),64
+Cortex contusion-prolng coma (851.04:0),64
+Ac lymph leuk in remissn (204.01:0),64
+Hemophilus pneumonia (482.2:0),64
+Epilepsy (345.90:0),63
+Pancytopenia (284.8:2),63
+Cancer of ampulla of Vater (156.2:0),63
+Peritonitis (567.9:0),62
+Cholecystitis (575.10:0),62
+GE presumed infectious origin (009.1:1),62
+Asthma (493.90:0),62
+Malig neo corpus uteri not isthmus (182.0:0),61
+"Anteroseptal AMI, initial (410.11:1)",60
+Streptococcal pneumonia (482.30:0),59
+Cancer of stomach (151.9:0),59
+Cellulitis site (682.8:0),58
+Methicillin resist SA septicemia (038.1:4),58
+Gangrene of small bowel (557.0:4),58
+Hemoptysis (786.3:0),58
+# femur shaft - closed (821.01:0),58
+Cancer of prostate (185:0),57
+NIDDM with hyperglycaemia (250.80:7),57
+Non-alcoholic cirrhosis - C (571.5:6),56
+Cancer of stomach - cardia (151.0:0),56
+"Bed sore, buttock (707.0:2)",56
+Intracranial h'mage non-traumatic (432.9:0),55
+Encephalitis (323.9:0),55
+Rectal bleeding (569.3:1),55
+Bleeding gastric varices (456.8:2),54
+Chronic subdural hematoma (432.1:1),54
+Heat stroke (992.0:1),53
+Aortic valve stenosis (424.1:9),53
+"GI anastomotic leakage, postop (997.4:12)",53
+Pancreatic disease (577.8:0),53
+Cancer of colon (153.9:0),52
+Brain abscess (324.0:1),52
+Unc behav neo meninges (237.6:0),52
+Mitral valve regurgitation (424.0:12),52
+"Anterolateral AMI, initial (410.01:0)",51
+Shock (785.50:0),51
+Closed # transcervical femur (820.09:0),51
+Thrombo thrombocytopenic purpura (446.6:1),51
+Encounter for aftercare (V58.89:0),51
+Ca urinary bladder (188.9:1),51
+"Cellulitis/abscess foot, not toes (682.7:0)",50
+Cancer intrahepatic bile duct (155.1:0),50
+Bronchiectasis (494:0),50
+IO due to adhesion (560.81:0),50
+Type II DM with ketoacidosis (250.10:0),50
+"Biliary obstruction, malignancy (576.2:2)",50
+Uncontrolled DM with ketoacidosis (250.12:1),49
+Liver disorder (573.9:0),49
+Myocarditis (429.0:0),49
+Acute appendicitis+ gen peritoniti (540.0:0),49
+"Pyogenic arthritis, knee (711.06:1)",48
+Cancer splenic flexure of colon (153.7:0),48
+"Grand mal status, epileptic (345.3:0)",48
+Gastroduodenal dis (537.89:0),48
+Essential hypertension (401.9:0),47
+Lung disease (518.89:0),47
+Cancer of stomach - body (151.4:0),47
+Fournier gangrene (608.83:5),47
+Alcohol cirrhosis liver (571.2:0),47
+Perforated rectum (569.49:5),46
+Bilateral hydronephrosis (591:3),46
+Esophagitis (530.10:0),46
+Spontaneous bacterial peritonitis (567.2:9),46
+Poisoning - medicinal agent (977.8:0),46
+Myasthenia gravis (358.0:0),45
+Dehydration (276.5:1),45
+Psoas abscess (728.89:2),45
+Chronic gastric ulcer (531.70:0),45
+Rhabdomyolysis (728.89:3),44
+Thrombocytopenia (287.5:0),44
+Hemothorax (511.8:1),43
+Cancer stomach lesser curve (151.5:0),43
+Disorder of rectum and anus (569.49:0),42
+Adult respiratory distres syndrome (518.82:1),42
+Salmonella septicemia (003.1:0),42
+Dementia (294.8:1),42
+Angina pectoris (413.9:0),42
+Stevens Johnson syndrome (695.1:5),41
+Type I respiratory failure (518.81:1),41
+Staph aureus septicemia (038.1:2),41
+Acute necrosis of liver (570:0),41
+Chronic hep B (070.32:0),41
+Old CVA (438:0),40
+"Abdominal pain, epigastric (789.06:0)",40
+Ascites (789.5:0),40
+"Lower limb ischaemia, acute (729.89:1)",39
+Cl vault # cere lac+ contu mod LOC (800.13:0),39
+TB lung cavitation by micro exam (011.23:0),39
+IO due to internal herniation (552.8:1),39
+Melena (578.1:1),39
+Liver transplant status (V42.7:0),39
+Post-op wound infection (998.59:3),39
+Acute retention of urine (788.20:1),39
+Cortex contusion mod coma (851.03:0),39
+Impaired liver function (573.8:1),38
+Obstructive jaundice (576.8:3),38
+"Dilate CBD, acquired (576.8:4)",38
+Ischaemic cardiomyopathy (414.8:1),38
+"Endocarditis, bacterial (421.0:2)",37
+Hematemesis (578.0:0),37
+Closed # pelvis w ring disruption (808.43:1),37
+Asthma w status asthmat (493.91:0),37
+Ac peptic ulcer w hemorr (533.00:0),37
+Falciparum malaria (084.0:0),36
+Acute pulmonary embolism (415.1:2),36
+"Intracranial injury, no LOC (854.01:0)",36
+Choledocholithiasis w obst (574.51:0),36
+Low back pain (724.2:1),36
+Upper airway obstruction (519.8:2),36
+CMV Infection (078.5:0),35
+Pseudoaneurysm (442.9:1),35
+Small bowel bleeding (578.9:4),35
+Pneumothorax (512.8:1),35
+Pulmonary TB by culture (011.94:0),35
+NIDDM hyperosmolar coma (250.20:999),35
+"# tibia & fibula, open (823.92:0)",35
+Uncontrol type II DM hyperosmolar (250.22:0),34
+Stricture bile duct (576.2:1),34
+Iron deficiency anemia (280.9:0),34
+Perforated transverse colon (569.83:11),34
+Chronic duodenal ulcer (532.70:0),34
+Burkitt's lymphoma (200.20:0),34
+Cord Compression (336.9:1),34
+Sigmoid Diverticulitis (562.11:7),34
+Non-TB septic spondylitis (720.9:1),33
+E. coli infection (041.4:0),33
+# Femur Subtrochanteric (820.22:0),33
+Orthopedic aftercare (V54.9:0),33
+Disorders of biliary tract (576.8:0),33
+Uncontrol type I DM ketoacidosis (250.13:0),33
+Candidiasis of lung (112.4:0),33
+Pericardial effusion (423.9:1),33
+Necrotizing pancreatitis (577.0:4),33
+Cerebral thrombosis no infarct (434.00:0),33
+"Intra-spinal abscess, epidural (324.1:3)",33
+Pneumoperitoneum (568.89:3),33
+Hemorrhage (459.0:0),33
+Scrub typhus (081.2:0),33
+Duodenal bleeding (537.89:6),32
+Cancer of pancreas - body (157.1:0),32
+Close skull vault # prolong coma (800.44:0),32
+Closed # C1-C4 + cord injury (806.00:0),32
+"Cancer of kidney, left (189.0:6)",32
+Liver tumor (239.0:2),32
+Chronic rheumatic heart disease (398.90:1),32
+Hyperglycemia (790.6:1),31
+Diarrhea (787.91:0),31
+Non-rheumatic mitral regurg (424.0:2),31
+Unilat inguinal hernia w obstruct (550.10:0),31
+Small bowel infarction (557.0:13),30
+Staphylococcal septicemia (038.1:0),30
+Intra-abdominal sepsis (038.9:2),30
+Uncontrol type II DM hyperosm coma (250.22:1),30
+Gastric ulcer (531.90:0),30
+Intramuscular abscess (728.89:1),30
+Intracranial inj >24 hrs LOS (854.04:0),30
+Influenza (487.8:0),30
+Nonrheumatic aortic valve stenosis (424.1:2),30
+Kidney transplant status (V42.0:0),29
+Empyema thoracis (510.9:1),29
+Epistaxis (784.7:0),29
+Hyperkalemia (276.7:1),29
+Hypovolaemic shock (785.59:1),29
+Hypotension (458.9:0),29
+Abscess of lung (513.0:0),29
+Cancer of pancreas (157.9:0),29
+Infected joint prosthesis (996.66:0),28
+Hyponatremia (276.1:1),28
+Cancer of duodenum (152.0:0),28
+Multi resist staphylo septicemia (038.1:1),28
+Disease blood + blood-form organ (289.9:0),28
+Rupture Ectopic Preg (633.9:1),28
+Volvulus of sigmoid colon (560.2:3),28
+Gastric Erosion (535.40:2),28
+Cl vault# ICH pro LOC regain consc (800.24:0),28
+Retropharyngeal abscess (478.24:0),28
+Aortic valve regurgitation (424.1:10),27
+Acute peptic ulcer (533.30:0),27
+"Cancer middle lobe, bronchus/ lung (162.4:0)",27
+Neuroleptic malignant syndrome (333.92:0),27
+Infective spondylodiscitis (722.90:5),27
+Syst lupus erythe w lupus nephriti (710.0:3),27
+Abdominal cavity abscess (567.2:1),27
+Burn Eye/Adenexa (940.9:0),27
+Pyogenic arthritis (711.00:0),27
+ESRF admitted for HD (585.9:3),27
+Per rectal bleeding (578.9:1),26
+Perforation of duodenum (569.83:1),26
+Foot ulcer (707.1:2),26
+Malig lymphoma head+ neck LN (202.81:0),26
+Myelofibrosis (289.8:1),26
+Cancer of stomach - pylorus (151.1:0),26
+Pneumocystosis (136.3:0),26
+CA female breast upper-outer (174.4:0),26
+"Aortic dissect aneur, thorac, rupt (441.01:2)",26
+Compartment syndrome (958.8:1),26
+Feeding problem of adult (783.3:4),26
+# base femoral neck - closed (820.03:0),26
+Biliary acute pancreatitis (577.0:9),25
+Chronic lymphocytic leukemia (204.10:0),25
+Carcinomatosis (199.0:2),25
+Acute viral hepatitis B infection (070.30:0),25
+Ruptured Thoracic Aneury (441.1:0),25
+Perianal abscess (566:6),25
+IDDM with ketoacidosis (250.11:1),25
+Acute hepatitis B with coma (070.20:0),25
+Rectal ulcer with bleeding (569.41:5),25
+Deep vein thrombosis (453.8:1),25
+Cellulitis and abscess - arm (682.3:0),25
+Myeloma (203.00:2),25
+Food bolus obstruct of intestine (560.89:4),25
+VF (427.41:0),25
+Perforation of esophagus (530.4:0),25
+Diverticulosis colon w hemorrhage (562.12:0),25
+Liver cirrhosis (571.5:0),25
+Acute duoden ulcer w h'age+ perfor (532.20:0),25
+Compartment syndrome non-traumatic (729.9:5),25
+Microscopic polyangiitis (446.0:2),24
+HIV infection (042:3),24
+Hydrocephalus (331.4:5),24
+Extensive bowel gangrene (557.0:2),24
+"SDH, nontraumatic (432.1:0)",24
+Viral infection (079.99:0),24
+Infection orthopaedic device (996.67:2),24
+Retroperitoneal hematoma-nontrauma (568.81:2),24
+Thoracic aortic aneurysm (441.2:0),23
+Gouty arthritis (274.0:1),23
+# hip (820.8:2),23
+RSV pneumonia (480.1:0),23
+Unilateral IH with gangrene (550.00:0),23
+"Aortic Aneurysm, rupture (441.5:0)",23
+CBD stones with cholangitis (574.50:2),23
+WBC disease (288.9:0),23
+Duodenal obstruction (537.3:0),22
+Benign cerebral meningioma (225.2:0),22
+Cancer of urinary bladder (188.9:0),22
+"Alcoholic cirrhosis of liver, C (571.2:3)",22
+Gout (274.9:0),22
+Carcinoma with liver metastasis (199.1:8),22
+Cellulitis of trunk (682.2:0),22
+Hypoglycemia (251.2:2),22
+Liver cyst (573.8:2),22
+Subdural h'mage LOC 1-24 hrs (852.24:0),22
+Crohn's disease (555.9:2),22
+Cancer of pancreas - tail (157.2:0),22
+Colon bleeding (578.9:5),22
+Pulmonary tuberculosis (011.90:0),22
+"Intest infect, clostrid difficile (008.45:1)",21
+"Iron defic anemia, chr blood loss (280.0:0)",21
+Vomiting alone (787.03:0),21
+Interstitial pulmonary disease (516.9:1),21
+Diabetic ketoacidosis (250.10:1),21
+Intramural leiomyoma uterus (218.1:0),21
+Ileus of bowel (560.1:1),21
+Guillain Barre syndrome (357.0:3),21
+Rheumatic mitral stenosis (394.0:1),21
+Subdural hemorrhage (432.1:999),21
+Mallory-Weiss syndrome (530.7:1),21
+Pseudomonas septicemia (038.43:0),21
+Lymphoma abdominal (202.83:0),21
+CA pelvic bone/ sacrum/ coccyx (170.6:0),21
+"# tibia & fibula, closed (823.82:0)",20
+Cardiac tamponade (423.9:2),20
+LOC (780.09:2),20
+ESRF admitted for PD (585.9:4),20
+Cerebral cortex contus <1 hr coma (851.02:0),20
+Postop - cardiac arrest resusc'ed (427.5:1),20
+Rupture sigmoid diverticulum (562.10:5),20
+Duodenal ulcer (532.90:0),20
+Leg ulcer (707.1:5),20
+Cirrhosis w bleed esophap varices (571.5:2),20
+Ulcer of esophagus (530.2:0),20
+Rupture 1 Ca liver (573.8:5),20
+Abnormal shadow on CXR (793.1:1),20
+Parapharyngeal abscess (478.22:0),19
+Subdural h'mage brief coma (852.22:0),19
+Malig neo frontal lobe (191.1:0),19
+Ischemic colitis (557.9:5),19
+Uncontrol type II DM ketoacid coma (250.32:1),19
+"Ca urinary bladder, other site (188.8:0)",19
+Retroperitoneal Abscess (567.2:8),19
+Dermatomyositis (710.3:0),19
+Primary biliary cholangitis (571.6:1),19
+Esophageal ulcer with bleeding (530.2:1),19
+Pseudo-obstruction of colon (564.8:2),19
+BPH with AROU (600:1),19
+Confusion (298.9:3),19
+Chronic hepatic failure (571.8:2),19
+Infectious gastroenteritis (009.0:4),19
+"Myocarditis, Acute (422.90:0)",19
+Cellulitis of neck (682.1:0),19
+BPH (600:4),19
+Bed sores (707.0:1),19
+Malaria (084.6:0),19
+Unc behav neo pituitary (237.0:0),19
+Streptococcal septicemia (038.0:0),19
+Clo vlt# cere lac+ contu brief LOC (800.12:0),18
+GB+ bile duct calc+ acute cholecys (574.60:0),18
+Complete heart block (426.0:0),18
+Empyema gallbladder (575.0:1),18
+"Delivered, PPPH + uterine atony (666.12:803)",18
+Retroperitoneal tumor (239.0:7),18
+Hypothermia (780.9:1),18
+Dizziness (780.4:1),18
+Gastric bleeding (578.9:3),18
+Clo# skl base lac+ contu prol LOC (801.14:0),18
+"Delivered, severe pre-eclampsia (642.51:800)",18
+Disseminate intravasc coagulation (286.6:1),18
+Ovarian tumor (239.5:2),18
+Aplastic anemia (284.9:0),18
+Small bowel tumor (239.0:8),18
+Cellulitis of buttock (682.5:0),18
+Tubo-ovarian abscess (614.2:4),18
+Pseudomembranous colitis (008.45:0),18
+Stricture of ureter (593.3:3),18
+Poison by anticoagulant (964.2:0),18
+Hypoxic ischemic encephalopathy (348.1:2),18
+Iliac artery aneurysm (442.2:0),18
+Rickettsiosis (083.9:0),17
+Arch aortic aneurysm (441.2:6),17
+Esophagogastroduodenoscopy (45.13:1),17
+Uncontroll DM with hyperglycaemia (250.82:6),17
+Small bowel volvulus (560.2:5),17
+Chr duoden bleed ulcer + perforate (532.60:0),17
+Intraabdominal abscess (567.2:4),17
+Bronchitis (490:0),17
+Irradiation cystitis (595.82:0),17
+Cancer of main bronchus (162.2:0),17
+Pancreatic abscess (577.0:5),17
+Viral pneumonia (480.8:0),17
+Rash (782.1:0),17
+Gastroenteritis (558.9:7),17
+Cancer of retroperitoneum (158.0:0),17
+Ulcerative colitis (556.9:0),17
+"Pyogenic arthritis, hip (711.05:1)",17
+Traumatic laceration of liver (864.05:1),17
+Myeloproliferative disease (238.7:5),17
+Hodgkin's lymphoma (201.90:0),17
+Normal spontaneous delivery (650:1),17
+Heat stroke & sunstroke (992.0:0),17
+Gastric Polyp (211.1:3),17
+Atypical pneumonia (486:1),17
+Delirium (780.09:3),17
+Avascular necrosis of hip (733.42:2),17
+Typhus (081.9:0),17
+Rheum mitral stenosis+ insuffic (394.2:0),17
+Laceration (879.8:5),17
+Hypokalemia (276.8:1),17
+"Posterior AMI, initial (410.61:0)",17
+"Traumatic SAH, LOC > 24hr (852.04:0)",17
+Acute peptic ulcer w perforation (533.10:0),16
+Vasculitis (447.6:1),16
+Diverticulosis of colon (562.10:0),16
+Unilateral inguinal hernia (550.90:0),16
+Chronic peptic ulcer w perforation (533.50:0),16
+Autoimmune hemolytic anemia (283.0:0),16
+Metastasis to liver (197.7:999),16
+Cancer connect+ soft tissue LL (171.3:0),16
+Mal neo long bones leg (170.7:0),16
+"Lymphosarcoma, thorax (200.12:0)",16
+Cancer of body of uterus (182.8:0),16
+Closed lumbar # w cord injury (806.4:0),16
+Hepatitis (573.3:0),16
+Cellulitis/abscess hand-not finger (682.4:0),16
+"Hemoperitoneum, torn mesentery (568.81:1)",16
+Typhoid fever (002.0:0),16
+Spine metastasi + cord compression (198.5:6),16
+"GE, noninfectious (558.9:8)",16
+Fetal distress for maternal care (656.30:0),16
+Cerebral embolism (434.10:0),16
+Renal Abscess (590.2:2),16
+Intracranial inj w LOS <1 hr (854.02:0),16
+Cryptococcal meningitis (117.5:1),16
+Nonrheum aortic valve regurgitat (424.1:1),16
+"Cancer of kidney, right (189.0:5)",16
+Poison by antidepressant (969.0:0),16
+Proteus mirabilis infection (041.6:3),16
+Obturator hernia (553.8:3),16
+Bleeding esoph varix d/t liver dis (573.9:2),16
+CA pyriform sinus (148.1:0),15
+Parkinson's disease (332.0:2),15
+Brain metastasis (198.3:2),15
+Burn of multiple sites in trunk (942.09:0),15
+Lymphoproliferative disease (238.7:7),15
+Closed # thoracic no cord lesion (805.2:0),15
+Syncope (780.2:2),15
+PVD of lower limb (443.9:2),15
+Fasciitis (729.4:0),15
+MND (335.20:1),15
+Hepatocellular carcinoma (155.0:2),15
+Ileostomy status (V44.2:0),15
+Traumatic SAH LOC < 1 hr (852.02:0),15
+Cancer connective+ soft tissue (171.9:0),15
+Abscess of prostate (601.2:0),15
+Herpes zoster infection (053.9:0),15
+"Lymphosarcoma, abdominal (200.13:0)",15
+Rectal ulcer (569.41:3),15
+Brain disorder (348.9:0),15
+Perforated small & large bowel (569.83:8),15
+Diverticulitis of colon (562.11:0),15
+Toxic diffuse goiter (242.00:0),15
+Renal cell carcinoma (189.0:3),15
+Op vlt# lac+ con prol LOC regain (800.64:0),15
+Nonrheumatic mitral insufficiency (424.0:4),15
+Obstructed ureter (593.4:0),15
+Traum hemothorax-closed (860.2:0),15
+Anemia due to chronic illness (285.8:1),15
+Unilat femoral hernia w obstruct (552.00:0),14
+"Bladder rupt, nontraum (596.6:0)",14
+Bone metastasis (198.5:1),14
+Acute gastritis w hemorrhage (535.01:0),14
+CA urinary bladder lateral wall (188.2:0),14
+Traumatic SDH w/o LOC (852.21:0),14
+Vivax malaria (084.1:0),14
+"Femoral Hernia, Gangrene (551.00:0)",14
+Amyloidosis (277.39:0),14
+Recurrent Cholangitis (576.1:3),14
+Kidney tumor (239.5:6),14
+Obstructive uropathy (599.6:3),14
+Dyspnea (786.09:4),14
+Chest pain (786.50:0),14
+Hydronephrosis (591:0),14
+Haemophagocytic syndrome (277.8:21),14
+CA exocervix (180.1:0),14
+Thyrotoxicosis (242.90:0),14
+Hepatic failure (572.8:3),14
+CA prostate (185:2),14
+Chronic peptic ulcer w hemorrhage (533.40:0),14
+Acinetobacter septicemia (038.49:2),14
+Respiratory arrest (799.1:0),14
+Encephalopathy (348.3:0),14
+OGD with biopsy (45.16:0),14
+Hx-major cardiovasc surg (V15.1:0),14
+Mother delivered w fetal distress (656.31:800),14
+Pernicious anemia (281.0:0),14
+"Ruptured spleen, non-tra (289.59:1)",14
+Enterobacter septicemia (038.49:1),14
+Nodular lymphoma (202.00:0),14
+Chronic hepatitis C infection (070.54:0),14
+Hypercalcemia (275.4:2),14
+Gastric varices (456.8:5),14
+Influenza A human swine flu (487.1:10),13
+"GIST, stomach (235.2:3)",13
+Dieulafoy's vascular malformation (447.8:3),13
+Thyrotoxicosis with crisis (242.91:0),13
+Pathological # NOF (733.14:0),13
+Carcinoma of stomach (151.9:1),13
+Poisoning-sedative/hypnotic (967.9:0),13
+H1N1 - human swine flu (487.1:11),13
+Supracondylar # femur - closed (821.23:0),13
+Pelvic Mass (789.30:7),13
+"Jaundice, not newborn (782.4:0)",13
+Nephrotic syndrome (581.9:0),13
+Alcohol withdrawal delirium (291.0:0),13
+Pulmonary Fibrosis (515:1),13
+Diverticulitis (562.11:999),13
+Parinfluenza viral pneum (480.2:0),13
+Portal vein thrombosis (452:0),13
+Candidemia (112.5:2),13
+Falls (799.5:0),13
+Viral encephalitis (049.8:1),13
+Adenoviral pneumonia (480.0:0),13
+Acute and chronic cholecystitis (575.12:0),13
+"OA knee, primary (715.16:1)",13
+Hiatus Hernia (553.3:1),13
+Aftercare for THR (V54.9:2),13
+Diabetes mellitus (250.00:0),12
+"Dehydration, severe (276.5:4)",12
+Adult-onset Still's disease (714.30:10),12
+Pneumococcal meningitis (320.1:0),12
+Sick sinus syndrome (427.81:1),12
+Acalculous cholecystitis (575.10:1),12
+Pelvic tumor (239.8:4),12
+Cystitis (595.9:0),12
+Submuco leiomyoma-uterus (218.0:0),12
+Nonrheum aortic stenosis w insuff (424.1:4),12
+Old MI (412:0),12
+Salmonella GE (003.0:0),12
+Bladder Mass (596.8:2),12
+Intracranial venous sinus thrombos (325:1),12
+Proteus species infection (041.6:5),12
+Ileitis (558.9:6),12
+Rheumatic tricuspid insufficiency (397.0:3),12
+Primary PPH+ uterine atony PN (666.14:803),12
+Colon polyp (569.89:4),12
+Brain death (348.8:1),12
+Benign neoplasm - brain (225.0:0),12
+Pelv # open / pelv disrup (808.53:0),12
+Fracture acetabulum - closed (808.0:0),12
+Dis of gallbladder (575.8:0),12
+Stone GB+ bile duct w obstruction (574.91:0),12
+Cellulitis of face (682.0:0),12
+Acute alcoholic intoxication (303.00:0),12
+Fungemia (117.9:9),12
+Aspergillosis (117.3:0),12
+Hemolytic anemia (283.10:1),12
+Rheumatoid arthritis (714.0:0),12
+Cancer of pancreas (157.8:0),12
+"Lymphosarcoma, head (200.11:0)",12
+Cancer stomach greater curve (151.6:0),12
+Dislodge right nephrostomy tube (996.39:11),12
+Gas gangrene (040.0:0),11
+Subdural h'mage mod coma (852.23:0),11
+Closed # of cervical vertebra (805.00:0),11
+Perinephric Abscess (590.2:1),11
+Displace orthopedic device (996.4:3),11
+Bullous pemphigoid (694.5:3),11
+Loin pain (593.83:1),11
+Malignant pleural effusion (197.2:2),11
+Opn vlt # IC inj proln LOC regain (800.94:0),11
+CBD stone w acute cholecystitis (574.30:0),11
+Rupture Esophagus (530.4:1),11
+Closed # T1-T6 w cord le (806.20:0),11
+# upper end tibia-close (823.00:0),11
+Aortic aneurysm (441.9:0),11
+Mal neo female breast- central (174.1:0),11
+Addisonian Crisis (255.4:2),11
+CBD obstruction (576.2:3),11
+Cancer of stomach (151.8:0),11
+Neutropenia due to chemo (288.0:10000),11
+Chronic renal impairment (585.1:0),11
+Acquire immunodeficiency syndro (042:0),11
+# femur - closed (821.00:0),11
+Femoral pseudoaneurysm (442.3:3),11
+Cancer of cheek mucosa (145.0:0),11
+Occlude precerebral art + infarct (433.91:0),11
+Leiomyoma of uterus (218.9:0),11
+Influenza B (487.1:4),11
+# humerus closed (812.20:0),11
+"Delivered, PPH retained placenta (666.02:801)",11
+Cerv spondyl w myelopath (721.1:0),11
+Strepto pneumococcal septicemia (038.2:0),11
+Dissect aneurysm thoracoabdo aorta (441.03:0),11
+Bacterial meningitis (320.9:0),11
+Lymphadenopathy (785.6:1),11
+Metast carcinoma unknown primary (199.1:10000),11
+"Lymphoma, thorax (202.82:0)",11
+Burkitt lymphoma multi sites LN (200.28:0),11
+TB peritonitis (014.00:0),11
+MRSA infection (041.11:1),11
+Orthopaedic aftercare for TKR (V54.9:1),11
+Uncontrol type I DM hyperglycemia (250.83:5),11
+Pneumocystis pneumonia (136.3:1),11
+Subdural intracranial hematoma (432.1:2),11
+Toxic diffuse goiter w crisis (242.01:0),11
+Supraventricular tachycardia (427.89:1),11
+Pulmonary aspiration (934.8:3),11
+Renal angiomyolipoma (223.0:2),10
+Carcinoma of pancreas (157.9:1),10
+Coronary atherosclerosis (414.00:0),10
+Retention of urine (788.20:0),10
+Streptococcal meningitis (320.2:0),10
+Schizophrenia (295.90:0),10
+# neck of femur - closed (820.8:0),10
+Varicella (052.9:0),10
+Cong cystic liver disease (751.62:0),10
+Acute URTI (465.9:0),10
+Necrosis of skin/subcutaneo tissue (785.4:5),10
+Hypernatremia (276.0:1),10
+NIDDM with hyperosmolarity (250.20:4),10
+Coronary atheroscler native artery (414.01:0),10
+Alcoholic liver failure (571.3:1),10
+Fungal septicemia (117.9:5),10
+Faecal Impaction (560.39:2),10
+Psoriasis (696.1:0),10
+Intracranial inj LOS 1-24 hrs (854.03:0),10
+Multiple small bowel ulcer (569.82:2),10
+Parapneumonic effusion (511.1:1),10
+Stage IV decubitus ulcer (707.0:7),10
+Disseminated cancer (199.0:0),10
+CA female breast upper-inner quad (174.2:0),10
+Spleen parenchyma laceration (865.03:0),10
+Open wound of face (873.40:0),10
+Peripheral vascular disease (443.9:1),10
+CO bronchitis acute exacerbation (491.21:0),10
+Pathologic # femur (733.15:0),10
+# femur shaft - open (821.11:0),10
+Non-alcoholic cirrhosis - B (571.5:5),10
+Grand mal-intractable epilepsy (345.11:0),10
+Ludwig's Angina (528.3:2),10
+Peptic ulcer (533.90:0),10
+Placenta accret w PPH delivery epi (666.02:1),10
+Spontaneous incomplete abortion (634.91:0),10
+Cx due to ortho implant/device (996.78:1),10
+Laceration of face (873.40:1),10
+Paracolic & pelvic abscess (567.2:6),10
+Small Bowel Obstruction (560.9:9),10
+Gram negative sepsis (038.40:1),10
+Strangulated incisional hernia (552.21:1),10
+Systemic vasculitis (447.6:10),10
+CA endocervix (180.0:0),10
+Rheumatic aortic valve stenosis (395.0:0),10
+Tricuspid valve regurgitation (397.0:6),10
+Ac alcoholic hepatitis (571.1:0),10
+Hematoma of kidney (866.01:0),10
+Leukemia in remission (208.91:0),10
+DVT leg (453.8:3),10
+NIDDM with hypoglycemia (250.80:5),10
+Autoimmune encephalitis (323.8:2),9
+Gouty tophi (274.0:2),9
+"Delivered, failed induct of labor (659.11:800)",9
+Pulmonary collapse (518.0:0),9
+Incomplete abortion (637.91:0),9
+Uncontrol DM w ketoacidotic coma (250.32:3),9
+Acute bronchitis (466.0:0),9
+Vitamin B12 deficiency (266.2:7),9
+"Cancer breast, female lower-outer (174.5:0)",9
+DM with hyperglycemia (250.80:11),9
+"Toxic effect, nonmedicinal agent (989.8:0)",9
+Acute tonsillitis (463:0),9
+Neutropenia (288.0:1),9
+Carcinoma of pancreas - head (157.0:1),9
+Symptomatic sinus bradycardia (427.89:12),9
+Pemphigoid (694.5:0),9
+Nausea and vomiting (787.01:0),9
+Viral hep B carrier (V02.61:0),9
+Extranodal NK/T cell nasa lymphoma (202.80:41),9
+Dysphagia (787.2:0),9
+Toxic epidermal necrolysis (695.1:6),9
+Nonunion of fracture (733.82:0),9
+Tox eff carbon monoxide (986:0),9
+Bleeding BPH (602.1:1),9
+Splenic injury (865.00:0),9
+Type II DM with ketoacidotic coma (250.30:0),9
+Open vault # w ICH prolong LOC (800.74:0),9
+Dental abscess (522.5:1),9
+Clos# sku base lac+ contu mod LOC (801.13:0),9
+Tubal pregnancy (633.1:0),9
+"Twin pregnancy, delivered (651.01:0)",9
+Gastroesoph laceration-hemorr synd (530.7:0),9
+Persistent vomiting (536.2:0),9
+Intestinal ulcer (569.82:0),9
+Acute hemorrhagic pancreatitis (577.0:1),9
+Hodgkin nodul sclero multi site LN (201.58:0),9
+Thoracoabdominal aortic aneurysm (441.7:0),9
+"Chorioamnionitis, antepartum care (658.43:800)",9
+NonInflam dsdr  ovary (620.9:2),9
+Impaired renal function (593.9:6),9
+TB meningitis (013.00:0),9
+Endophthalmitis (360.00:1),9
+Cl skull vault # mod coma (800.23:0),9
+Colonic ulcer (569.82:4),9
+Wilson's disease (275.1:2),9
+Metastatic adenocarcinoma (199.1:9),9
+Cancer connect/ soft tissue pelvis (171.6:0),9
+Cancer of bronchus or lung (162.8:0),9
+Malignant neo glottis (161.0:0),9
+Lumbar spinal stenosis (724.02:0),9
+Ovarian cyst (620.2:0),9
+Plasma cell leukemia (203.10:0),9
+Cardiac tumor (239.8:5),9
+Constipation (564.0:0),8
+Cervical lymphadenopathy (785.6:3),8
+Renal mass (593.9:4),8
+"VT, sustained (427.1:7)",8
+Gastritis with hemorrhage (535.51:1),8
+AML kidney (223.0:1),8
+# surg nck humerus-clos (812.01:0),8
+Infectious mononucleosis (075:0),8
+Chronic cholecystitis (575.11:0),8
+B-cell lymphoma (202.80:37),8
+CMV pneumonia (078.5:1),8
+Female pelvic inflammation (614.9:1),8
+Urinary calculus (592.9:0),8
+Pulmonary hypertension (416.0:1),8
+Malign tumour thyroid (193:0),8
+"Laceration, scalp (873.0:1)",8
+VSD - post MI (429.71:2),8
+Nephrogenic diabetes insipidus (588.1:0),8
+Poisonous snake bite (989.5:1),8
+Burn foot (945.02:0),8
+Skin abscess (682.9:10),8
+Peritonsillar abscess (475:0),8
+Metastasis to vertebrae (198.5:5),8
+Toxic shock syndrome (040.89:1),8
+Primary pulmonary hypertension (416.0:0),8
+Pulmonary hemorrhage (786.3:3),8
+Rectal tumor (239.0:6),8
+Small bowel stricture (560.9:10),8
+Vascular insufficiency of bowel (557.9:0),8
+Subarachnoid h'mage no LOC (852.01:0),8
+Psychosis (298.9:0),8
+Pseudomonas infection (041.7:0),8
+Uncontrol type I DM ketoacid coma (250.33:2),8
+Acquired hemophilia (286.9:9),8
+Delivered with primary PPH (666.12:801),8
+Acute ischemic colitis w/ bleeding (557.0:16),8
+Burn genitalia (942.05:0),8
+Carcinoma prostate+ bony metastas (185:3),8
+Renal haemorrhage (593.81:1),8
+Hx of NPC (V10.02:1),8
+Wegener's granulomatosis (446.4:0),8
+Hypertr obstr cardiomyop (425.1:0),8
+Pulmonary TB by histology (011.95:0),8
+Neuromyelitis optica (341.0:0),8
+SIADH (253.6:1),8
+Perforation GI tract (569.83:13),8
+Hyperlipidemia (272.4:0),8
+Skin disorders (709.8:0),8
+Fungal peritonitis (117.9:4),8
+Mediastinitis (519.2:0),8
+Myelodysplastic/proliferative dis (238.7:10),8
+Miliary TB (018.90:0),8
+Gastroduodenitis (535.50:2),8
+Splenomegaly (789.2:0),8
+Dislodge left nephrostomy tube (996.39:13),8
+Acute stimulant intoxication (305.70:3),8
+Paranoid schizophrenia (295.30:0),8
+Rheum aortic steno w insufficiency (395.2:0),8
+Hemorrhagic from cerebral infarct (431:8),8
+Cl skull base # IC inj prolon LOC (801.44:0),8
+Post-op hemoperitoneum (998.11:12),8
+Cancer of esophagus (150.9:0),8
+Pulmonary edema (514:3),8
+Anoxic brain damage (348.1:0),8
+# humerus shaft-closed (812.21:0),8
+Waldenstrom's macroglobulinaemia (273.3:1),8
+Type II DM with gangrene foot (250.70:3),8
+Paralytic ileus (560.1:0),8
+Observation - suspected condition (V71.9:0),8
+Drowning / nonfatal submersion (994.1:0),8
+Leukemia (208.80:0),8
+Vocal cord paralysis (478.30:0),8
+Pyosalpinx (614.2:1),8
+Menorrhagia (626.2:1),8
+Polymyositis (710.4:0),8
+Fracture patella - closed (822.0:0),8
+Hepatorenal syndrome (572.4:0),8
+Endocarditis (424.90:0),8
+Parastomal Hernia (553.21:2),8
+Type I DM with hyperglycemia (250.81:2),8
+TB spine (015.00:0),8
+Perforated gallbladder (575.4:0),7
+Loosen ortho implant/ device (996.4:4),7
+"Pyogenic arthritis, shoulder (711.01:0)",7
+Benign tumor pituitary gland (227.3:0),7
+LL weakness (780.9:3),7
+Bowel infarction (557.0:1),7
+Dieulafoy's stomach lesion (531.40:6),7
+Incompl spon abor pelv+ genit infe (634.01:0),7
+Cancer of peritoneum (158.9:0),7
+Protrusion of ortho implant/device (996.4:5),7
+Local skin infection (686.9:0),7
+Duodenal polyp (537.89:1),7
+Mitral stenosis (394.0:0),7
+CA female breast lower-inner quad (174.3:0),7
+Acute bacterial endocarditis (421.0:1),7
+Cold antibody hemolytic anemia (283.0:1),7
+Breast disorders (611.8:0),7
+Wernicke's encephalopathy (265.1:1),7
+Hypert w renal failure (403.91:0),7
+"Compartment syndrome, traumatic (958.8:3)",7
+Subserous leiomyoma of uterus (218.2:0),7
+Disorder of biliary tract (576.9:0),7
+Infected amputated stump (997.62:0),7
+"Lymphoma, spleen (202.87:0)",7
+Closed # of rib (807.00:0),7
+Streptococcal sepsis (038.0:3),7
+Drowning (994.1:1),7
+Severe MR no/ mini impair behavior (318.1:1),7
+Cancer appendix vermiformis (153.5:0),7
+Tick-borne ricketts (082.9:0),7
+Anemia megaloblastic B12 (281.1:1),7
+Open wound foot (892.0:0),7
+Non-Hodgkin's lymphoma (202.80:36),7
+Close skull base # ICH prolon LOC (801.24:0),7
+Recur unilat ing hernia w obstruct (550.11:0),7
+Traumatic injury to kidney (866.00:0),7
+Ischiorectal Abscess (566:5),7
+Cancer of brain (191.8:0),7
+Ventricular tachycardia (427.1:2),7
+Close skull vault # mod coma (800.43:0),7
+Slipped PTBD (996.59:7),7
+Petit mal status (345.2:0),7
+"Bed sore, heel (707.0:4)",7
+Type I DM with ketoacidotic coma (250.31:0),7
+Adenomyosis of uterus (617.0:1),7
+Reflux esophagitis (530.11:0),7
+Cerebel contus-LOC > 24 (851.44:0),7
+Post-meningitis comm hydrocephalus (331.3:3),7
+# shaft tibia-closed (823.20:0),7
+Drug allergy (995.2:3),7
+Esophageal disorder (530.9:0),7
+Coma (780.01:0),7
+Duodenitis (535.60:0),7
+Liver metastasis (197.7:0),7
+Drug-induced skin rash (693.0:1),7
+Acute epiglottitis (464.30:0),7
+Bleeding esophagitis (530.19:2),7
+HIV with specific infection (042:13),7
+"Leakage of bile, post-operative (997.4:10001)",7
+Hx-oral/ pharynx malignancy (V10.02:0),7
+Transverse Myelitis (323.9:2),7
+"Dehydration, moderate (276.5:3)",7
+"Peritonitis, primary (567.9:2)",7
+# ribs multiple (807.09:1),7
+Lower limb embolism (444.22:8),7
+Major liver laceration traumatic (864.04:999),7
+Int hemorrhoid w/o compl (455.0:0),7
+"Mesenteric tear, traumatic (863.89:1)",7
+Malig brain tumor - temporal lobe (191.2:0),7
+Cancer of thymus (164.0:0),7
+Loosen broken joint prosthesis (996.4:2),7
+Burn neck (941.08:0),7
+"Enlarged, multiple cervical LNs (785.6:4)",7
+Pneumonia due to coronavirus (480.8:1),7
+Mal ant medias tumor germ cell (164.2:5),7
+"GIST, small bowel (235.2:4)",7
+Acute drug intoxication (305.90:8),7
+Human metapneumovirus pneumonia (480.8:3),7
+Carbuncle of back (680.2:1),7
+Polycystic kidney (753.12:0),7
+Viral pneumonia (480.9:0),7
+Abscess of mediastinum (513.1:0),7
+Cellulitis and abscess of finger (681.00:0),7
+Femoral artery obstruction (444.22:5),7
+Subphrenic abscess (567.2:3),6
+Infective spondylopathy (730.98:2),6
+Intervertebral discitis (722.90:4),6
+CA stomach - antrum (151.2:3),6
+Pseudo-obs of intestine (564.8:1),6
+Post-infective hydrocephalus (331.3:5),6
+Pulmonary secondary (197.0:999),6
+Bone marrow donor (V59.3:0),6
+Pyometra (615.9:2),6
+"Ureteric stones, Lt (592.1:5)",6
+Pathologic # humerus (733.11:0),6
+Viral gastroenteritis (008.8:0),6
+Hydronephrosis w stone obstruction (591:9),6
+Closed # lower end radius + ulna (813.44:0),6
+Cancer of larynx - supraglottis (161.1:0),6
+Bacterial enteritis (008.5:0),6
+Renal / perirenal abscess (590.2:0),6
+Gangrenous bowel (557.0:5),6
+"Pelvic abscess, female (614.4:3)",6
+Germ cell tumor extracranial (183.8:999),6
+"Abdom pain, right upper quadrant (789.01:0)",6
+Elevated PSA (790.93:0),6
+"Lymphosarcoma, spleen (200.17:0)",6
+Burn of hand (944.00:0),6
+Cl vault # ICH brief coma (800.22:0),6
+Nonrheumatic mitral valve prolapse (424.0:1),6
+ICH LOC >24 hr retu to conscious (853.04:0),6
+Mycoplasma pneumonia (483.0:0),6
+Severe aplastic anemia (284.9:2),6
+Strangulated small bowel (560.2:4),6
+Graft-versus-host disease (996.85:1),6
+Rectovesical fistula (596.1:2),6
+Acute endophthalmitis (360.01:0),6
+Non-alcoholic cirrhosis - C (571.53:0),6
+Bradycardia (427.89:15),6
+Flu with resp manifestations (487.1:0),6
+Gastrojejunal ulcer w h'mage (534.40:0),6
+Communicat hydrocephalus (331.3:0),6
+Swelling of limb (729.81:0),6
+"Mortality, unknown cause (799.9:4)",6
+Esophageal polyp (530.89:1),6
+Mal neo soft/ conn tissue H&N (171.0:0),6
+"Aortic aneurysm, infra-renal (441.4:1)",6
+"Nodular lymphoma, multi sites (202.08:0)",6
+Cancer of anal canal (154.2:0),6
+"Toxic epid necro, correct subs (695.1:7)",6
+Plasmacytoma (238.6:1),6
+M&B dis alcohol withdraw delirium (291.0:5),6
+"Delivered, APH - placenta previa (641.11:800)",6
+"Anastomotic ulcer, bleeding (998.11:3)",6
+Hx of colonic malignancy (V10.05:0),6
+Infection of generator site (996.61:1),6
+Closed # lumbar spine (805.4:0),6
+Pancr intraduct papil mucin neo (235.5:4),6
+Backache (724.5:0),6
+Drug induced skin allergy (693.0:2),6
+Splenic artery aneurysm (442.83:0),6
+Missed miscarriage (632:0),6
+Ischemic colitis with bleeding (557.9:4),6
+Carcinoma of peritoneum (158.9:1),6
+Blocking right nephrostomy tube (996.39:15),6
+Depression (311:1),6
+Atypical mycobacterial infection (031.9:0),6
+Mitral valve failure (394.9:1),6
+Bacterial pneumonia (482.9:0),6
+Infected implants (996.60:1),6
+Urethral false passage (599.4:0),6
+Salmonella sepsis (003.1:1),6
+Osteomyelitis (730.20:0),6
+Complic labor (659.90:0),6
+Cancer of tongue - base (141.0:0),6
+Hip joint pain (719.45:2),6
+Disease of larynx (478.70:0),6
+Mycosis (117.9:0),6
+Germ cell tumor extracranial (199.1:10),6
+Obstructiv hydrocephalus (331.4:0),6
+Open wound of scalp (873.0:0),6
+Post gastrectomy (V15.2:1),6
+Staghorn renal stone (592.0:3),6
+Disease of pharynx or nasopharynx (478.29:0),6
+"Cancer, primary unknown (199.1:14)",6
+"Hodgkin disease, multi sites (201.98:0)",6
+Acute suppurative cholecystitis (575.0:4),6
+Infected VP shunt (996.63:2),6
+Resp syncytial virus infection (079.6:0),6
+Collapse of vertebra (733.13:1),6
+Common bile duct stone (574.50:1),6
+PPROM (658.10:2),6
+Blocked PTBD catheter (996.59:14),6
+Acute ren fail w tubular necrosis (584.5:0),6
+Intra-abdo abscess postop (998.59:14),6
+Ruptured gallbladder (575.4:1),6
+CML in complete remission (205.11:0),6
+"Pseudocyst, pancreas (577.2:1)",6
+Primary cardiomyopathy (425.4:0),6
+"Pneumonia, anaerobes (482.81:0)",6
+Bladder stone (594.1:0),6
+Traum pneumothorax-close (860.0:0),6
+Chronic peptic ulcer (533.70:0),6
+"Contusion of trunk, back (922.31:0)",6
+Hemopericardium (423.0:0),6
+Atrial flutter (427.32:0),6
+"Peritonitis, Suppurative (567.2:0)",6
+Goodpasture's syndrome (446.21:0),6
+"Hodgkin disease, nodular sclerosis (201.50:0)",6
+Vascular dementia (290.40:11),6
+Portal hypertensive gastropathy (537.89:8),6
+Ectopic pregnancy (633.9:0),6
+Abnormal liver function (794.8:1),6
+"PPH+ retained placenta, postpartum (666.04:801)",6
+Cellulitis & abscess of toes (681.10:0),5
+AIHA related to SLE (283.0:6),5
+Fungal pneumonia (117.9:2),5
+Corticoadrenal insufficiency (255.4:0),5
+Prim local osteoarthr pelvi+ thigh (715.15:0),5
+Malign neopl cerebrum (191.0:0),5
+Delivered with intrauterine death (656.41:800),5
+Cornual pregnancy (633.8:2),5
+Malig lymphoma inguinal+ LL LN (202.85:0),5
+Aneurysm of carotid artery (442.81:1),5
+"Cancer tongue, dorsal surface (141.1:0)",5
+# radius distal end closed (813.42:0),5
+Uncontrol DM w hyperosmolar coma (250.22:3),5
+Colonic fistula (569.81:3),5
+Obstruct sleep apnea syndrome (780.53:2),5
+Alcohol dependence syndrome (303.90:0),5
+Biliary cirrhosis - secondary (571.6:2),5
+Cancer tip+ lateral border tongue (141.2:0),5
+Hx uteri cervix cancer (V10.41:0),5
+Stimulant harmful use mental disor (305.70:2),5
+Empyema with fistula (510.0:0),5
+Post-op hematoma (998.12:1),5
+Severe preeclampia (642.50:0),5
+"Alcoholic cirrhosis of liver, B (571.2:2)",5
+Alcoholic chronic liver disease (571.3:2),5
+Nonrheumatic mitral valve disorder (424.0:0),5
+Thymoma (235.8:3),5
+Rheum mitral stenos+ regurgit (394.2:1),5
+"Liver derangement, drug related (573.3:2)",5
+Subarachnoid h'mage mod LOC (852.03:0),5
+Senile cataract (366.10:0),5
+Carcinoma of gall bladder (156.0:1),5
+Leptospirosis (100.9:0),5
+Cytomegaloviral colitis (078.5:6),5
+Op - accidental perfor bladder (998.2:7),5
+ICH with LOC 1-24 hrs (853.03:0),5
+Erythema multiforme (695.1:0),5
+Chron gast ulcer+ bleed+ perfor (531.60:0),5
+GB& bili calcu+ acu/chr cholecysti (574.80:0),5
+Heel ulcer (707.1:3),5
+Bulbous urethral stricture (598.9:1),5
+Cancer of maxillary sinus (160.2:0),5
+Malignant hypertension (401.0:0),5
+VSD post AMI (429.71:4),5
+Anaphylaxis (995.0:0),5
+Chronic myelomonocytic leukemia (205.10:1),5
+Internal herniation (553.8:1),5
+Hypten heart+ renal dis renal fail (404.92:0),5
+Hx musculoskeletal disease (V13.5:0),5
+"Hypoglycemia, drug-induced (251.1:1)",5
+Constrictive pericarditis (423.2:0),5
+Pyloric Stenosis (537.0:2),5
+Trachea stenosis (519.1:1),5
+Open wound of leg (894.0:0),5
+Strepto pneumoniae infection (041.06:0),5
+Nonruptured cerebral aneurysm (437.3:0),5
+"Perfor urinary bladder, traumatic (867.0:1)",5
+Liver injury (864.00:0),5
+Gallstone with obstruction (574.21:0),5
+Mental& beha by acute alco intoxic (303.00:7),5
+Attempt suicide (300.9:2),5
+Chronic pyelonephritis (590.00:0),5
+"Chorioamnionitis, delivered (658.41:2)",5
+Injury thoracic aorta (901.0:0),5
+Resp system disease (519.8:0),5
+No ureteric stricture (V71.9:22),5
+IHD (414.9:1),5
+"Occlude precerebral art, no infarc (433.80:0)",5
+Candidiasis of esophagus (112.84:0),5
+Duodenal diverticulum (562.00:2),5
+Hypertens encephalopathy (437.2:0),5
+Multiple chop wounds (879.8:3),5
+Open # vault lac+ contu mod LOC (800.63:0),5
+Staph aureus sepsis (038.1:5),5
+Infec due to vasc device (996.62:0),5
+"CA Kidney - Renal pelvis, left (189.1:3)",5
+Secondary PPH for postpartum care (666.24:800),5
+Posterior disloc hip-cl (835.01:0),5
+Gallstone ileus (560.31:0),5
+Rupture ovarian cyst (620.2:4),5
+Acute Inflammatory Pelvi (614.3:2),5
+Osteomyelitis spine acute (730.08:1),5
+Mechanical low back pain (724.2:3),5
+Cancer connect/ soft tissue abdo (171.5:0),5
+Mixed connective tissue disease (710.8:3),5
+Pancreatic Cyst (577.2:2),5
+Legionnaires' Disease (482.83:1),5
+Open wound hand (882.0:0),5
+Small bowel stromal tumor benign (211.2:5),5
+Cerebrovascular anomaly (747.81:0),5
+Cancer of retromolar area (145.6:0),5
+Drug abuse (305.90:0),5
+CPD for maternal care (653.40:1),5
+Cranial diabetes insipidus (253.5:1),5
+Congestive rheumatic heart failure (398.91:0),5
+Iliac artery obstruction (444.81:2),5
+Laceration of skin (879.8:17),5
+"GIST, duodenum (235.2:5)",5
+Sacral abscess (730.08:2),5
+Malignant Ascites (197.6:1),5
+Feeding prob-not newborn (783.3:0),5
+Neck mass (784.2:6),5
+Metas carcinoma urinary bladder (198.1:4),5
+Int hemorrhoid with complication (455.2:0),5
+Liver laceration (864.05:0),5
+Bile leakage from PTBD (997.4:26),5
+Normal finding (V71.9:29),5
+Secondary PPH+ RPOG postpartum (666.24:802),5
+"Delivered, prolonged 2nd stage (662.21:800)",5
+Lung contusion (861.21:0),5
+Cancer of tongue (141.9:0),5
+"Fundal varices, bleeding (456.8:1)",5
+Spotted fevers (082.0:0),5
+Bronchio obliter organis pneumonia (516.8:1),5
+Bezoar obstruction (560.89:3),5
+Gram-negative meningitis (320.82:0),5
+Metastasis to specified site (198.89:999),5
+DVT limbs (453.8:2),5
+Mitral valve prolapse (424.0:11),5
+Diverticulitis of ascending colon (562.11:4),5
+Thalassemia major beta (282.4:1),5
+Acute peritonitis (567.9:1),5
+Malign neopl vagina (184.0:0),5
+Osteoarthritis of hip (715.95:1),5
+Acute opioid intoxication (305.50:1),5
+Cancer of oesophagus (150.8:0),5
+Cancer urinary bladder poster wall (188.4:0),5
+Streptococcus suis meningitis (320.2:1),5
+Friedlander bacillus infection (041.3:0),5
+"VT, non-sustained (427.1:6)",5
+Perforated Jejunum (569.83:4),5
+Hyperten heart dis w CHF (402.91:0),5
+Pancreatic cystadenoma (211.6:2),5
+Cerebrovascular disease (437.9:0),5
+Groin LN (lymph node) (785.6:7),5
+Rectovaginal fistula (619.1:1),5
+"Choriocarcinoma, female (181:1)",5
+End stage renal failure (585.9:1),5
+Mitral valve prosthe complication (996.02:2),5
+Cancer of floor of mouth (144.9:0),5
+"Sinus of Valsalva aneurysm, RCC (747.29:15)",5
+Cancer of jejunum (152.1:0),5
+Rheumatic mitral insuff (394.1:0),5
+Sjogren's syndrome (710.2:1),5
+Ruptured AAA (441.3:1),5
+Malfunc urethral indwelling cath (996.31:0),5
+Anti-GBM disease (583.89:10),5
+Perforation of rectosigmoid colon (569.83:6),5
+Paroxysmal atrial fibrillation (427.31:1),5
+UTI (599.0:1),5
+Intestinal fistula (569.81:0),4
+"Kidney stone, Lt (592.0:6)",4
+Partial epilepsy (345.50:0),4
+Adrenal tumor (239.7:1),4
+Decrease in appetite (783.0:1),4
+Primary sclerosing cholangitis (576.1:6),4
+Melioidosis (025:0),4
+Atherosclerosis limb w gangrene (440.24:0),4
+Lung metastasis (197.0:0),4
+Idiopathic scoliosis (737.30:1),4
+OGD & control of bleeding (44.43:3),4
+Acute gastritis (535.00:0),4
+Malignant secondary hypertension (405.09:0),4
+Acute ischaemic colitis (557.0:19),4
+Xanthogranulomatous pyelonephritis (590.00:3),4
+Spinal stenosis (724.00:0),4
+Duodenal Fistula (537.4:1),4
+Hydroureteronephrosis (591:4),4
+Carcinoma of cardia of stomach (151.0:1),4
+Leaking duodenal stump (997.4:21),4
+Infective peritonitis (567.2:13),4
+"Delivered, preterm prelabor ROM (658.11:802)",4
+Thrombosed arteriovenous graft (996.74:2),4
+Acute paraplegia (344.12:0),4
+TB ileitis (014.80:0),4
+Cauda equina syndrome (344.60:0),4
+Primary Cholangitis (576.1:2),4
+Gallstone (574.20:1),4
+GE salmonella B (003.0:2),4
+Partial epilepsy+impaired consciou (345.40:0),4
+Cancer of stomach - fundus (151.3:0),4
+Disorders of uterus (621.8:0),4
+Essential thrombocythemia (238.7:1),4
+"Lateral AMI, initial (410.51:0)",4
+Ankle ulcer (707.1:10),4
+Choledochal Cyst (576.8:2),4
+Drug induced mental disorder (292.9:0),4
+Cancer connect+ soft tissue UL (171.2:0),4
+Clo# skul base lac+ contu brf LOC (801.12:0),4
+"Aquired TI, non-rheumatic (424.2:1)",4
+Injury iliac artery (902.53:0),4
+Prostatitis (601.9:0),4
+Testicular tumor (239.5:7),4
+Pneumonia streptococcus A (482.31:0),4
+Vitamin B12 deficiency anemia (281.1:0),4
+Interstitial lung disea w fibrosis (516.3:2),4
+Acute appendicitis+ local peritoni (540.0:5),4
+Closed skull vault # 1-24 hrs LOC (800.03:0),4
+# humerus shaft - open (812.31:0),4
+Open vault # w ICH brief LOC (800.72:0),4
+Ruptured aneurysm of artery (442.9:7),4
+Epidur spinal hematoma not trauma (432.0:5),4
+Complete disrupt renal parenchyma (866.03:0),4
+Poisoning-aromatic analgesic (965.4:0),4
+"Delivered, vaginal tear + PPPH (665.41:802)",4
+Acute interstitial nephritis (580.89:1),4
+"Ca connect+soft tissue, other site (171.8:0)",4
+Malignant lymphoma (202.80:1),4
+Squamous cell carcinoma (199.1:6),4
+Cerebral edema (348.5:0),4
+"Prev single Cesarean, delivered (654.21:2)",4
+Alcoholism (303.90:6),4
+Syncope and collapse (780.2:0),4
+Sustain monomorp ventric tachycard (427.1:11),4
+"UTI, post-op complication (599.0:2)",4
+Intussusception of intestine (560.0:0),4
+"Extraperitoneal hematoma, trauma (922.2:1)",4
+Carbuncle (680.9:1),4
+Hx of ICH (438:2),4
+Cor pulmonale chronic (416.9:1),4
+Weight loss (783.2:1),4
+"Pneumothorax, tension (512.0:1)",4
+Drug induced thrombocytopenia (287.4:4),4
+Pelvic abscess female postop (614.4:4),4
+Human metapneumovirus infection (079.89:8),4
+CA urinary bladder anterior wall (188.3:0),4
+Hemorrhage into bladder wall (596.7:0),4
+Esophageal stricture (530.3:3),4
+Unc beh neo nerv sys (237.9:0),4
+Lymphosarcoma and reticulosarcoma (200.80:0),4
+Acute gastritis and duodenitis (535.00:1),4
+Acute intravascular hemolysis (283.2:4),4
+Ascending aortic aneurysm (441.2:5),4
+Enterocutaneous fistula (569.81:8),4
+Bleeding CBD (576.8:1),4
+Agranulocytosis (288.0:0),4
+Herpes simplex encephalitis (054.3:1),4
+"Ureteric stones, Rt (592.1:6)",4
+No CBD stone (V71.9:7),4
+Cancer of tongue (141.8:0),4
+Extradural abscess of spinal cord (324.1:5),4
+Cancer esophagus - cervical (150.0:0),4
+Malrotation of gut (751.4:1),4
+Ac marginal ulcer w perf (534.10:0),4
+Diverticulosis small gut w bleed (562.02:0),4
+Torsades des pointes (427.1:1),4
+Influenza A H3N2 (487.1:7),4
+Frontal AVM (747.81:5),4
+Viral exanthem (057.9:0),4
+Open # pelvis w ring disruption (808.53:1),4
+Esophag varice due to cirrhosis (571.5:1),4
+Metastasis to peritoneum (197.6:4),4
+Wound hematoma (998.12:2),4
+Carbuncle of neck (680.1:1),4
+Type II DM with leg ulcer (250.80:8),4
+Bladder neck stenosis (596.0:1),4
+Short gut syndrome (579.3:1),4
+Concuss prolong LOC regain conscio (850.3:0),4
+Poison by antiadrenergic (971.3:0),4
+Previous lymphoma (V10.79:1),4
+Aspiration pneumonitis (507.0:4),4
+Dural AVM (747.81:4),4
+CA cardio-esophageal junction (151.0:7),4
+Acute gastric ulcer h'mage+ perfor (531.20:0),4
+SMA obstruction (557.0:15),4
+"Pyogenic arthritis, ankle & foot (711.07:0)",4
+Pyloric Obstruction (537.0:1),4
+Pathologic # vertebrae (733.13:0),4
+Type 2 DM with overt nephropathy (250.40:9),4
+Hyperplasia of prostate (600:0),4
+Infective tenosynovitis (727.09:6),4
+Intestinovesical fistula (596.1:0),4
+Liver subcapsular hematoma (573.8:3),4
+Cl vault# prolong LOC regain consc (800.04:0),4
+Folate-deficiency anemia (281.2:0),4
+Post Hartmann's OP (V45.89:5),4
+Tumour lysis syndrome (277.8:6),4
+Close skull vault # no coma (800.21:0),4
+Disseminated tuberculosis (018.90:1),4
+"Dehydration, mild (276.5:2)",4
+Cervical spinal stenosis (723.0:0),4
+Transient cerebral ischemia (435.9:0),4
+Traumatic rupture of spleen (865.09:1),4
+Dissec abdominal aortic aneurysm (441.02:0),4
+"Cancer of testis, right (186.9:4)",4
+Tracheoesophageal fistula (530.84:0),4
+Ankylosing spondylitis (720.0:0),4
+Blocking left nephrostomy tube (996.39:14),4
+Volvulus of Colon (560.2:7),4
+Rheum mitral regurg (394.1:2),4
+Abdominal distension (787.3:3),4
+Edema (782.3:0),4
+Open wound neck (874.8:0),4
+Diverticulitis of descending colon (562.11:5),4
+Acute cystitis (595.0:0),4
+Serotonin syndrome (333.99:4),4
+Contusion (924.9:0),4
+Drug induced fever (780.6:4),4
+Delivered w cephalopelv disproport (653.41:801),4
+Fracture calcaneus - open (825.1:0),4
+Traum pneumohemothor-cl (860.4:0),4
+Hip arthroplasty dislocation (996.4:7),4
+Incisional hernia (553.21:0),4
+IgG4 related systemic disease (279.9:4),4
+Rupture of aorta (441.5:1),4
+Acute pharyngitis (462:0),4
+Urethral stricture (598.9:0),4
+"Injury to ureter, intra-operative (998.2:10)",4
+Pneumonia strep. B (482.32:0),4
+Hydroureter & Hydronephr (593.5:1),4
+Chronic duodenal ulcer w obstruct (532.71:0),4
+Bleeding colitis (558.9:4),4
+"Lymphosarcoma, axilla (200.14:0)",4
+Spinal abscess (324.1:2),4
+Injury to retroperitoneum (868.04:0),4
+Hemolytic-uremic syndrom (283.11:0),4
+Spont pneumothorax (512.8:0),4
+Lip laceration (873.43:1),4
+Non-functioning kidney (593.9:3),4
+"Delivered, advanced maternal age (659.61:800)",4
+IgA glomerulonephritis (583.89:4),4
+Infected arteriovenous graft (996.62:1),4
+Obstruction of bile duct (576.2:0),4
+"HELLP syndrome, delivery episode (642.51:2)",4
+Drug overdose (977.9:1),4
+Crescentic GN (583.89:2),4
+Hypertensive renal disease (403.90:0),4
+"Delivered, prev Cesarean section (654.21:800)",4
+Mal neo parietal lobe (191.3:0),4
+Uncontrol DM with hyperosmolarity (250.22:2),4
+Agranulocytosis d/t antithyroid-d (288.0:4),4
+NAD on cystoscopy (V71.9:3),4
+Idiopath autoimm hemolytic anemia (283.0:5),4
+Thrombophlebitis (451.9:2),4
+DM hyperosmolar coma (250.20:3),4
+Cardiomyopathy (425.4:12),4
+"Coro insfficiency, acute (411.89:1)",4
+Rupture Stomach (537.89:2),4
+Acidosis (276.2:0),4
+Closed # ankle (824.8:0),4
+"Unsatisfactory CTG, delivered (656.91:1)",4
+C1C2 subluxation (839.01:1),4
+Gastroparesis (536.3:0),4
+Primary PPH with uterine atony (666.10:4),4
+Post COVID-19 condition (139.8:5),4
+Dislodgement of NG tube (996.59:6),4
+Ischaemic enteritis (557.9:2),4
+"Non-trau hematoma, skin/subcut tis (782.7:1)",4
+Gastric stromal tumor (211.1:5),4
+Hyperammonemia (270.6:4),4
+Megacolon (564.7:2),4
+Toxic megacolon (556.9:5),3
+Irreducible incisional hernia (552.21:2),3
+Injury inferior vena cava (902.10:0),3
+# facial bone close (802.8:0),3
+Idiopathic pulmonary artery HT (416.0:2),3
+Pathologic # (733.10:0),3
+Delivered with eclampsia (642.61:800),3
+Acute lymphoblastic leukaemia (204.00:1),3
+Haemopneumothorax (511.8:4),3
+Post Polya with GJ-ostomy (V45.89:12),3
+Post-op wound dehiscence (998.3:0),3
+Alzheimer's disease (331.0:0),3
+Perforated terminal ileum (569.83:10),3
+Delivered with multiple pregnancy (651.91:800),3
+"Liver laceration, major (864.04:0)",3
+Type I DM (250.01:0),3
+Rupture gallbladder non-traumatic (575.4:2),3
+"Fetal distres w MSL, maternal care (656.30:2)",3
+Pheochromocytoma benign-R adrenal (227.0:4),3
+Instantaneous death (798.1:0),3
+CA oropharynx (146.8:0),3
+"Liver laceration, minor (864.02:0)",3
+Lumbar vertebra collapse (733.13:5),3
+Gangrenous pneumonia (513.0:3),3
+Bile peritonitis (567.8:1),3
+Hypocalcemia not newborn (275.4:9),3
+Biliary papillomatosis (211.5:2),3
+Carotid occluded/ steno no infarct (433.10:0),3
+Protrusio acetabuli (718.60:0),3
+Extensive fasciitis (729.4:1),3
+Diverticulum urinary bladder (596.3:0),3
+Trau rupture mesenteric vessel (902.20:1),3
+"Fistula, small bowel (569.81:6)",3
+# olecranon process ulna - closed (813.01:0),3
+"SDH acute/subacute, traumatic (852.20:1)",3
+"Leaking GI anastomosis, postop (997.4:20)",3
+Streptococcus group G infection (041.05:0),3
+Anti-septic poisoning (976.0:0),3
+Parainfluenza infection (079.89:4),3
+Hemophagocytic lymphohistiocytosis (288.8:3),3
+Mesenteric Embolism (557.0:10),3
+"Hypoglycemia, reactive (251.2:1)",3
+Post Polya gastrectomy (V45.89:11),3
+Scleroderma (710.18:1),3
+Cancer urinary bladder neck (188.5:0),3
+Erythroderma (695.9:2),3
+Twin pregnancy (651.00:0),3
+Spleen disease (289.50:0),3
+Pneumonia in infectious disease (136.9:1),3
+Achalasia (530.0:1),3
+"Arthritis, bacterial infection (711.00:4)",3
+Abdominal compartment syndrome (958.8:2),3
+Enteritis due to norwalk virus (008.63:0),3
+"Ulcer with perforation, intestine (569.83:12)",3
+Polyarteritis nodosa (446.0:0),3
+Vulval abscess (616.4:0),3
+"Deep laceration knee, leg, ankle (891.1:1)",3
+Delivered with pre-eclampsia (642.41:801),3
+Diverticulitis colon w hemorrhage (562.13:0),3
+Duodenitis w hemorrhage (535.61:0),3
+Scabies (133.0:0),3
+"Pyogenic arthritis, wrist (711.03:1)",3
+"Closed #, finger (816.00:0)",3
+Lung transplant status (V42.6:0),3
+Chronic inflam demyelin neuropathy (357.8:1),3
+Burn of upper limb (943.00:0),3
+Ureteric stricture (593.3:5),3
+CA nipple+ areola female breast (174.0:1),3
+Cancer digest organ& peritoneum (159.9:0),3
+Hx of lymphoid leukemia (V10.61:0),3
+Second thrombocytopenia (287.4:0),3
+Hx of alcoholism (V11.3:0),3
+Cervical LN metastasis (196.0:1),3
+Primary antiphospholipid syndrome (279.4:3),3
+Op base# cere lac+ contu mod LOC (801.63:0),3
+Parotitis (527.2:2),3
+"Delivered, fetal distress with MSL (656.31:801)",3
+OGD w clipping (stomach/duodenum) (44.43:4),3
+Infection due to enterococcus (041.04:2),3
+Henoch-Schonlein purpura (287.0:1),3
+Paratyphoid fever A (002.1:0),3
+Sudden cardiac death (427.5:2),3
+# radius w ulna - open (813.93:0),3
+Acute hemorrhagic cholecystitis (575.0:3),3
+Ac epiglottitis w obstr (464.31:0),3
+Jakob-Creutzfeldt disease (046.1:0),3
+Cushing's syndrome (255.0:0),3
+Hepatomegaly (789.1:0),3
+Citrobacter infection (041.85:11),3
+Acute erosive gastritis (535.00:2),3
+Enteritis (558.9:2),3
+Obstructive hydronephrosis (591:6),3
+Postmenopausal bleeding (627.1:0),3
+Open wound wrist (881.02:0),3
+"CA hypopharynx, postcricoid (148.0:0)",3
+"Fracture of pubis, closed (808.2:0)",3
+Mal neo cerebral meninges (192.1:0),3
+"SLE GN syndrome, WHO class IV (710.0:16)",3
+SAH rupture aneurysm (430:2),3
+PPH with retained placenta (666.00:1),3
+Type II DM drug induc hypoglycemia (250.80:10),3
+"Aortic occlusion, abdomen (444.0:2)",3
+"Extradur hem, LOC > 24 h (852.44:0)",3
+# upper end tibia-open (823.10:0),3
+Osteomyelitis Femur (730.05:1),3
+Bronchiolitis obliterans (491.8:1),3
+Rupture thoracoabdo aortic aneurys (441.6:0),3
+Chronic skin ulcer (707.9:0),3
+TB urinary organ (016.30:0),3
+Carcinoma of body of stomach (151.4:1),3
+Intracerebral bleed in brain stem (431:14),3
+Acute monocytic leukemia (206.00:0),3
+Hypothyroidism (244.9:0),3
+Injury (959.9:0),3
+Leaking ovarian cyst (620.2:3),3
+Anorexia nervosa (307.1:0),3
+Uncontrol type II DM gangrene foot (250.72:1),3
+Japanese encephalitis (062.0:0),3
+Hx of leukemia (V10.60:0),3
+Upper limb embolism (444.21:4),3
+IVC tumor thrombus (453.2:1),3
+"Cancer of ureter, right (189.2:3)",3
+Abdominal mass (789.30:1),3
+Concussion with brief LOC (850.1:0),3
+Paronychia in finger (681.02:2),3
+Acute sinusitis (461.9:0),3
+Crohn dis small bowel+ bleeding (555.0:1),3
+OGD w banding esophageal varices (42.33:5),3
+Rectal Polyp (569.0:3),3
+Hx of breast malignancy (V10.3:0),3
+Acute dilation of stomach (536.1:0),3
+Cecal diverticulitis (562.11:1),3
+Noninflam dis cervix (622.8:0),3
+Chronic pancreatitis (577.1:0),3
+"Pyogenic arthritis, elbow (711.02:1)",3
+Peritoneal tumor (239.0:5),3
+Tumor (239.9:0),3
+"Placenta accreta no hemorrhage, PP (667.04:802)",3
+"Bed sore, foot (707.0:6)",3
+Rheum aortic valve insuff (395.1:0),3
+Ileocolic Intussuception (560.0:2),3
+Delivered with abruptio placenta (641.21:800),3
+"Lymphosarcoma, inguinal (200.15:0)",3
+Infect/ inflam by int orth device (996.67:0),3
+"Arterial embol, lower extrem (444.22:2)",3
+Aneurysm of visceral artery (442.84:0),3
+IDDM hyperosmolar coma (250.21:999),3
+Subdura effusion late effect h'oma (348.5:1),3
+"Cancer of renal pelvis, right (189.1:2)",3
+Bladder disorder (596.9:0),3
+Acute suppurat bacterial arthritis (711.00:10),3
+Bleeding from colostomy (997.4:28),3
+Neurogenic bladder (596.54:0),3
+Gastric polyposis (211.1:6),3
+Malignant neoplasm colon (153.8:0),3
+Chr marginal ulcer w perf (534.50:0),3
+Renal artery aneurysm (442.1:0),3
+Arteriosclerotic heart disease (414.00:2),3
+Candidiasis (112.9:0),3
+Candidal sepsis (112.5:1),3
+Open skl base # ICH prolon coma (801.74:0),3
+"Intramuscular haematoma,nontrauma (728.89:13)",3
+Hx bronchus+ lung cancer (V10.11:0),3
+Meningococcemia (036.2:0),3
+Cancer of nasal cavity (160.0:0),3
+Tetrology of Fallot (745.2:0),3
+Staphylo aureus infection (041.11:0),3
+Disease due to chlamydia (078.88:0),3
+HIV resuting in Burkitt's lymphoma (042:50),3
+Elevated liver enzyme level (790.5:5),3
+Burkitt lymphoma intra-abdo LN (200.23:0),3
+# lower limb - open (827.1:0),3
+Normal Pressure Hydrocep (331.3:1),3
+Benign ovarian cyst (620.2:1),3
+Ac/subac bact endocard (421.0:0),3
+Post-operation fever >38C (998.89:3),3
+Hepatic coma (572.2:0),3
+Pyothorax (510.9:2),3
+Esophageal reflux (530.81:0),3
+Warm antibody hemolytic anemia (283.0:3),3
+OA knee (715.96:1),3
+Infected ascites (789.5:3),3
+Acute / subactue IHD (411.89:0),3
+Thrombotic microangiopathy (446.6:0),3
+TB meningitis by microscopic exam (013.03:0),3
+Mucormycosis (117.7:2),3
+Multiple myeloma (203.00:1),3
+Sporadic Jakob-Creutzfeldt disease (046.1:1),3
+# lower radius w ulna - open (813.54:0),3
+Proteus infection (041.6:0),3
+Delivered with hypertension (642.91:800),3
+Diabetes insipidus (253.5:0),3
+Meningoencephalitis (323.9:10),3
+Hx of GI malignancy (V10.09:0),3
+Listerial septicemia (027.0:5),3
+Pyoderma gangrenosum (686.0:1),3
+Hypovolemia (276.5:0),3
+"Streptococcal sepsis, group A (038.0:4)",3
+Bleeding DU (532.40:1),3
+Admission for chemotherapy (V58.11:1),3
+Volvulus (560.2:0),3
+Inflammatory bowel disease (558.9:18),3
+Complication d/t joint prosthesis (996.77:0),3
+GB& bile duct stone+ AC & obstruct (574.61:0),3
+Scrotal abscess (608.4:2),3
+Meningioma (225.2:2),3
+Myopathy (359.9:0),3
+"Ca Ureter, Lt (189.2:4)",3
+Viral meningitis (047.9:0),3
+Cancer of mediastinum (164.9:0),3
+Polyneuropathy (356.9:1),3
+Vocal paral bilat total (478.34:0),3
+"Intestinal infection, clostridium (008.46:3)",3
+Eczema (692.9:3),3
+Ileal perforation (569.83:2),3
+"Abdom aortic aneurysm, no rupture (441.4:3)",3
+Crushing inj lower leg (928.10:0),3
+Cancer of larynx (161.9:0),3
+ERCP & papillotomy (51.85:1),3
+Pre-eclampsia (642.40:1),3
+Persistent vegetative state (780.03:0),3
+Second malig tumor small bowel (197.4:0),3
+Dislodged cholecystostomy tube (996.59:13),3
+Bladder neoplasm (239.4:0),3
+Normal appendix (V71.9:27),3
+Ventriculitis of brain (322.9:9),3
+Chron ulcer lower limb not bedsore (707.1:0),3
+Blocked Tenckhoff catheter (996.59:3),3
+Edema of LL (782.3:1),3
+Disseminated candidiasis (112.5:0),3
+Tracheostomy complic (519.0:0),3
+Paraumbilical hernia (553.1:1),3
+Cancer of hard palate (145.2:0),3
+Pneumocystis carinii infection (136.3:2),3
+False femoral aneurysm (442.3:1),3
+Removal vascular catheter (V58.81:0),3
+Chocolate cyst of ovary (617.1:2),3
+Autoimmune cholangitis (576.1:5),3
+Hx-rectal & anal malign (V10.06:0),3
+Insulinoma (211.7:3),3
+Group A streptococcal septicemia (038.0:7),3
+Abdominopelvic Abscess (567.2:11),3
+FB bronchus (934.1:0),3
+Acute myeloproliferative disease (238.7:16),3
+Esophageal injury (862.22:0),3
+Chronic hep C with coma (070.44:0),3
+Metastatic LN - head & neck (196.0:2),3
+Lower limb art thromboembolism (444.22:0),3
+Acinetobacter infection (041.85:8),3
+"Nodular lymphoma, abdom (202.03:0)",3
+Popliteal embolism (444.22:9),3
+Malignant fever (780.6:1),3
+Secondary postpartum hemorrhage (666.20:0),3
+Diverticula of colon (562.10:2),3
+Zoster encephalitis (053.19:2),3
+"Delivered, group B strep infection (647.81:800)",3
+Infection of retroperitoneal space (567.9:4),3
+Acute renal tubular necrosis (584.5:4),3
+Intraabdominal loculation (789.30:10),3
+Postop hemorrhage (998.11:8),3
+Pulmonary lymphangioleiomyomatosis (518.3:2),3
+Unstable angina (411.1:1),3
+"Placenta previa type III, AP (641.03:804)",3
+Delayed union of # (733.82:1),3
+Ossify post longit ligame neck reg (723.7:0),3
+Renal colic (788.0:0),3
+RPOG Following Abortion (637.91:2),3
+Cervical spine dislocation (839.00:1),3
+# fibula closed (823.81:0),3
+Leukemia in remission (208.81:0),3
+Coxsackie myocarditis (074.23:0),3
+Angina decubitus (413.0:0),3
+"Cecal diverticulum, perforation (562.10:1)",3
+Palpitations (785.1:0),3
+Ac marginal ulcer (534.30:0),3
+# radius w ulna - closed (813.83:0),3
+Hodgkin nodul sclero thorax LN (201.52:0),3
+Femoral artery embolism (444.22:4),3
+# C2 vertebra-closed (805.02:0),3
+Proctitis (569.49:1),3
+Delivered with uterine fibroid (654.11:801),3
+Post-transplant lymphoprolifer dis (238.7:14),3
+Delivered with placenta praevia (641.01:800),3
+Otitis media (382.9:0),3
+Dysphasia (784.5:1),3
+Abscess of lung with pneumonia (513.0:2),3
+Tachycardia-bradycardia syndrome (427.81:5),3
+ERCP & stent insertion (51.87:1),3
+Sec mal neo brain/spine (198.3:0),3
+Urethral calculus (594.2:0),3
+Dialysis exit site infection (998.59:12),3
+Lac eyelid skn/perioculr (870.0:0),3
+Abscess of spleen (289.59:3),3
+Artif urinary open statu (V44.6:0),3
+Laceration of kidney (866.02:0),3
+Duodenal erosion (532.90:2),3
+Osteoradionecrosis of jaw (526.89:1),3
+Closed # spine w cord lesion (806.8:0),3
+Carcinoma of ampulla of Vater (156.2:1),3
+Tenosynov hand/wrist (727.05:0),3
+Multi inflam syndr adult COVID-19 (780.9:66),3
+Acute arterial embolism (444.21:1),3
+Alcohol-induced acute pancreatitis (577.0:8),3
+Pemphigus vulgaris (694.4:3),3
+Bloody diarrhea (787.91:1),3
+Angiodysplasia of colon hemorrhage (569.85:1),3
+Ostium secundum type ASD (745.5:0),3
+"# Ulna Shaft, Closed (813.22:0)",3
+Trophoblastic Disease (630:3),3
+Orthostatic hypotension (458.0:0),3
+M&B dis alcohol withdrawal state (291.81:5),3
+Contusion of hip (924.01:0),3
+Cancer skin lower limb (173.7:0),3
+Carotid occlude/stenosis + infarct (433.11:0),3
+Inj common femoral arter (904.0:0),3
+Knee effusion (719.06:1),3
+Laceration of Forehead (873.42:2),3
+Asphyxia (799.0:0),3
+Hantavirus infection (078.89:4),3
+Spondylitis (720.9:3),3
+Peritoneal adhesions (568.0:0),3
+Closed # spine (805.8:0),3
+Free wall rupture - post MI (429.79:1),3
+Angiodysplasia of large bowel (569.84:2),3
+Depressive episode (296.20:2),3
+Poisoning-purine diuretic (974.1:0),3
+Late effect of respiratory TB (137.0:0),3
+Renal cyst (593.2:1),3
+# Femur greater trochanter (820.20:1),3
+"Twin pregnancy, antepartum care (651.03:800)",3
+Dementia Alzheimer late onset (290.0:3),3
+Ovarian cyst torsion (620.2:5),3
+Open skull vault # brief coma (800.52:0),3
+Tricuspid atresia (746.1:3),3
+Pituitary Apoplexy (253.2:3),3
+"Chron peptic ulcer, hemorr, perfor (533.60:0)",3
+Close skull vault # ICH brief LOC (800.32:0),2
+Syphilis (097.9:0),2
+"AML, M2 w granulocytic maturation (205.00:10002)",2
+Encounter for closing wound (V58.41:0),2
+Chop wound over abd wall (879.2:2),2
+Crohn's disease of colon (555.1:2),2
+Crushing inj upper arm (927.03:0),2
+Cryoglobulinemia (273.2:1),2
+Hypoalbuminuria (791.0:1),2
+Late amputation complication (997.60:0),2
+GB stone+ acu cholecystitis& obstr (574.01:0),2
+APH from placenta previa type IV (641.13:804),2
+RV dysfunction (429.9:2),2
+"Sinus of Valsalva aneurysm, LCC (747.29:13)",2
+Radiation brain necrosis (437.8:2),2
+Stomach polyp bleeding (537.84:1),2
+Secondary cardiomyopathy (425.9:0),2
+Progressive supranuclear palsy (333.0:7),2
+Pneumonia- food/ vomitus postop (507.0:2),2
+Angioimmunoblastic T-cell lymphoma (202.80:50),2
+Parotid gland abscess (527.3:1),2
+Pheochromocytoma benign-L adrenal (227.0:5),2
+Infect endocarditis by card shunt (421.0:4),2
+Malign hypertensive heart disease (402.00:0),2
+Laceration of Neck (874.8:999),2
+Infection by adenovirus (079.0:0),2
+No liquor (658.80:1),2
+Dysmenorrhea (625.3:0),2
+Gaped laparotomy wound (998.3:7),2
+Left heart failure (428.1:0),2
+APH - abruptio placentae (641.23:801),2
+Idiopathic retroperitone fibrosis (593.4:1),2
+Malnutrition (263.9:1),2
+Retained products of conception (632:1),2
+Type II DM with IHD (250.80:9),2
+Acute reject kidney trans (996.81:4),2
+Hepatic duct strictures (576.2:5),2
+Cerebral cortex contusion no coma (851.01:0),2
+Chron gastric ulcer w obstruction (531.71:0),2
+"Aplastic anemia, parvovirus infect (284.8:5)",2
+Close base # prolong LOC regain (801.04:0),2
+HIV infection / AIDS (042:40),2
+Moyamoya disease (437.5:0),2
+Oliguria (788.5:2),2
+Castleman's disease (785.6:19),2
+Red cell aplasia (284.8:3),2
+Cor pulmonale acute (415.0:0),2
+Cardiac myxoma (212.7:2),2
+Hx of gastric malignancy (V10.04:0),2
+Spondylosis (721.90:0),2
+"Amniotic fluid embolism, postpartu (673.14:800)",2
+Arthritis (716.90:1),2
+Cancer of lower gum (143.1:0),2
+Fulminant hepatitis (070.9:8),2
+Skin melanoma (172.9:1),2
+Cancer of ethmoidal sinus (160.3:0),2
+"Systemic sclerosis, diffuse (710.11:1)",2
+Diverticulosis bowel perfor+absces (562.11:8),2
+Paraproteinemia (273.2:0),2
+Cachexia (799.4:0),2
+Burkitt lymphoma intrapelvic LN (200.26:0),2
+Carcinoma of esophagus (150.9:1),2
+Ureteral tumor (239.5:8),2
+ICH with LOC <1 hr (853.02:0),2
+Bleeding solitary rectal ulcer (569.41:2),2
+Measles (055.9:0),2
+# clavicle closed (810.00:0),2
+Dengue hemorrhagic fever (065.4:2),2
+Viral hepatitis A (070.1:0),2
+Brucellosis (023.9:0),2
+Trachea stenosis post tracheostomy (519.0:2),2
+Hx of non-Hodgkin lymphoma (V10.71:1),2
+Acute lymphocytic leukemia (204.00:2),2
+Malign neo pineal gland (194.4:0),2
+Traumatic closed liver laceration (864.05:999),2
+Cardiomyopathy due to toxicity (425.4:6),2
+Atten to tracheostomy (V55.0:0),2
+Marfan syndrome (759.82:0),2
+Macrocytic anemia (281.9:1),2
+Aortic valve prosthe complication (996.02:1),2
+Ebstein's anomaly (746.2:0),2
+Injur heart+ h'pericard no open wd (861.00:3),2
+Tuberculous kidney (016.00:0),2
+Delivered with retained placenta (667.02:800),2
+Tonsillitis (463:4),2
+Hypotension due to drugs (458.9:1),2
+Chronic respiratory failure (518.81:5),2
+Q fever (083.0:0),2
+Pulmonary atresia + IVS (746.01:2),2
+"Epilepsy, intractable epilepsy (345.91:0)",2
+Injury heart+ h'pericard w open wd (861.10:1),2
+Mediastinal large B-cell lymphoma (202.80:42),2
+"Acute inflamma pelvic dis, female (614.3:6)",2
+Hemoglobin H disease (282.4:6),2
+"Abnormal CTG, delivered (656.91:2)",2
+Gum hemorrhage (523.8:1),2
+Lesion of pancreas (577.8:4),2
+Radiation induced colitis (558.1:1),2
+Cor pulmonale (416.9:2),2
+Bowel obstruct due to stricture (560.9:15),2
+Open vault # w ICH moderate LOC (800.73:0),2
+Heart block (426.6:0),2
+Blocked suprapubic catheter (996.39:9),2
+Stent complication (996.59:1),2
+Leucopenia (288.0:2),2
+Dementia in Alzheimer's disease (290.10:5),2
+Acquired pancytopenia (284.8:10),2
+Urticaria (708.9:0),2
+Thrombosed vascular graft (996.74:6),2
+Diverticulosis of small intestine (562.00:0),2
+"CA oropharynx, lateral wall (146.6:0)",2
+Post-procedural mitral regurg (424.0:8),2
+TB meningitis by culture (013.04:0),2
+Hx of bone malignancy (V10.81:0),2
+"HELLP syndrome, postpartum (642.54:1)",2
+Malig neo skin trunk not scrotum (173.5:0),2
+Chin laceration (873.44:2),2
+Angiodysplasia - upper GI (537.82:1),2
+Corrosive esophageal stricture (530.3:1),2
+Scalp tumor (239.2:3),2
+Chest discomfort (786.59:1),2
+Open # pelvis (808.9:0),2
+Non-DM related hypoglycemia (251.2:0),2
+# vertebral body cervical (805.00:4),2
+Pancreas injury (863.84:0),2
+Blocked NG tube (996.59:10),2
+"SIRS, infect with organ failure (780.9:29)",2
+"Thrombocytopenia, Immune (287.5:1)",2
+Infection of kidney (590.9:0),2
+Acute IHD (411.89:2),2
+Hx of bladder malignancy (V10.51:0),2
+Myositis (729.1:3),2
+"SIRS, non-infect w organ failure (780.9:27)",2
+Bile leakage from liver (573.8:4),2
+Knee pain (719.46:1),2
+Atherosclerosis in limb + ulcer (440.23:0),2
+Acquire coagulat factor deficiency (286.7:0),2
+Disseminated cryptococcosis (117.5:6),2
+Postoperative hemothorax (511.8:7),2
+Secondary PPH + RPOC (666.24:801),2
+Iliac artery embolism (444.81:1),2
+"Unc beh tumur, pleura thym mediast (235.8:0)",2
+Bladder wall hemorrhage (596.7:1),2
+M&B multi dru+ psych sub acu intox (305.90:32),2
+Cancer lateral floor of mouth (144.1:0),2
+Hematoma complicating procedure (998.12:0),2
+Pacemaker lead complication (996.01:2),2
+Admit to remove double J catheter (V53.6:1),2
+Dysfunctional uterine bleeding (626.8:1),2
+# femoral condyle - open (821.31:0),2
+DIC+ primary PPH postpartum care (666.34:800),2
+"Sclerosing peritonitis, dialysis (567.8:5)",2
+Infective colitis (009.0:2),2
+Sebaceous cyst (706.2:0),2
+AVM peripheral vessel (747.60:1),2
+Behcet's syndrome (136.1:0),2
+Injury to carotid artery (900.00:0),2
+Antepartum hemorrhage AP care (641.93:800),2
+"2nd hemorrhage, postoperative (998.11:17)",2
+"Delivered, fetal distres- thin MSL (656.31:802)",2
+DIC+ secondary PPH postpartum care (666.34:801),2
+Secondary OA knee (715.26:1),2
+Schizoaffective+ persis schizo sym (295.70:7),2
+Bowel inf vibrio parahemolyticus (008.46:4),2
+Primary osteoarthritis (715.90:1),2
+"AML, M3 acute promyelocytic (205.00:10003)",2
+"GIST, large bowel (235.2:6)",2
+Bacteremia due to salmonella (790.7:2),2
+Delirium superimposed on dementia (290.11:3),2
+Secondary hypertension (405.99:0),2
+"Delivered, DIC + primary PPH (666.32:800)",2
+Gastroduodenitis with hemorrhage (535.51:0),2
+Hypertensive heart disease (402.90:0),2
+Pneumococcus infection (041.2:0),2
+Contusion of chest wall (922.1:0),2
+Open# skull vlt lac+ contu <1h LOC (800.62:0),2
+Infection PD catheter (996.68:0),2
+"Retained placenta- no bleed, PN (667.04:800)",2
+Bicuspid aortic valve (746.4:1),2
+Secondary adrenal insufficiency (255.4:4),2
+Restrictive cardiomyopathy (425.4:2),2
+Genital herpes (054.10:0),2
+Post esophagectomy (V45.89:9),2
+Cancer of mouth (145.8:0),2
+Weakness (780.9:48),2
+Cx due to prosthesis (996.79:2),2
+Alteration of consciousness (780.09:0),2
+"Arteriovenous fistula, acquired (447.0:0)",2
+Severe mental retardation (318.1:0),2
+Cancer of parotid gland (142.0:0),2
+"# anatomical neck humerus, closed (812.02:0)",2
+"Severe pre-eclampsia, antepartum (642.53:800)",2
+Parvovirus B19 infection (079.89:2),2
+Malign neopl ureter (189.2:0),2
+# metacarpal open (815.10:0),2
+Complete lesion cord / C1 - C4 (952.01:0),2
+Cl vlt# ICH prolong LOC regain con (800.34:0),2
+Hyperparathyroid due to renal dise (588.8:4),2
+Caesarean scar pregnancy (633.8:4),2
+Acquired chylothorax (457.8:2),2
+Chronic ulcer of lower limb (707.1:999),2
+Microangiopathic hemolytic anemia (283.19:1),2
+Colonic polyp bleeding (569.89:8),2
+Gun shot wound (879.8:2),2
+Scoliosis deformity of spine (737.39:4),2
+Angiodysplasia of duodenum & bleed (537.83:3),2
+"Anorexia nervosa, restricting (307.1:1)",2
+Intraperitoneal Abscess (567.2:5),2
+Coagulase -ve staphy septicemia (038.1:3),2
+Bleeding from omental vessel (568.89:1),2
+Anal verge ulcer (569.41:1),2
+"Uterine atony+ secondary PPH, PN (666.24:803)",2
+Cryptogenic cirrhosis (571.5:10),2
+Ac vasc insuff intestine (557.0:0),2
+Atrial septal defect (745.5:3),2
+HIV result in mycobacterial infect (042:25),2
+Salmonella infection (003.9:0),2
+Volvulus of stomach (537.89:5),2
+Infectious disease (136.9:5),2
+Intra-abdom injury closed (868.00:0),2
+Pneum in aspergillosis (117.3:1),2
+ARF tubular necrosis (584.5:1),2
+TB encephalitis/ myelitis (013.60:0),2
+POEMS syndrome (273.9:1),2
+Open dislocation of knee (836.60:0),2
+Membranous glomerulonephritis (583.1:1),2
+"Legal abort w hemorrhage, incompl (635.11:0)",2
+Cancer vertebra not sacrum+ coccyx (170.2:0),2
+Orchitis/epididymitis (604.90:999),2
+Acute osteomyelitis of foot (730.07:1),2
+Malignant otitis externa (380.14:0),2
+Concussion w moderate LOC (850.2:0),2
+Lumbar spondylosis (721.3:1),2
+Relapsing polychondritis (733.99:3),2
+Intracranial abscess (324.0:0),2
+Observ-suspect TB (V71.2:0),2
+TB urinary organ by micro eaxm (016.33:0),2
+M&B acute stimulant intoxication (305.70:10),2
+"Death, postop (798.1:1)",2
+Meningococcal meningitis (036.0:0),2
+Intra-abdominal adhesion (568.0:6),2
+Carcinoma common bile duct (156.1:1),2
+Congenital stenosis of aorta (747.22:2),2
+CT brain (87.03:3),2
+"Crushing injury, forearm (927.10:0)",2
+Complication liver transplant (996.82:0),2
+Appendicular abscess (540.1:2),2
+Recurrent inguinal hernia (550.91:0),2
+Crushing injury LL (928.9:0),2
+Traumatic amp finger (886.0:0),2
+Chest stab wound (875.0:1),2
+"Shunt block, ventricular (996.2:1)",2
+TB skin & soft tissue w +ve AFB (017.03:1),2
+Maternal IU infect affect newborn (771.8:4),2
+Gastrostomy status (V44.1:0),2
+Cancer of hypopharynx (148.9:0),2
+Cancer of tonsil (146.0:0),2
+"Nonpoison snake bite, lower limb (894.0:1)",2
+Malig seconda HT by renal disorder (405.02:0),2
+Wound bleeding (998.11:9),2
+Hemophilia A (286.0:1),2
+Hx-laryngeal malignancy (V10.21:0),2
+Stomach dysplasia (537.89:4),2
+Perforation esophagus & bleeding (530.4:2),2
+"Laceration of knee, leg, ankle (891.0:1)",2
+Carcinoma of corpus uteri (182.0:2),2
+Tranquillis induc ment/ beha disor (292.9:18),2
+Rheumatic mitral & aortic stenosis (396.0:0),2
+Chronic nonalcoholic liver disease (571.9:0),2
+Soft tiss sarc - rhabdomyosarc (171.9:6),2
+Laryngitis (464.0:1),2
+Pseudoaneurysm vascular entry site (997.2:6),2
+Graft rejection (996.52:12),2
+Benign neo cranial nerve (225.1:0),2
+Pneumoconiosis (505:0),2
+Mandible # open (802.30:0),2
+Hx lymphatic+ hematopo cancer (V10.79:0),2
+Malig neopl kidney (189.0:0),2
+Prim nonfunc renal trans (996.81:3),2
+Ileocecal intussusception (560.0:1),2
+Meckel's diverticulum (751.0:0),2
+Burkitt lymphoma head+ neck LN (200.21:0),2
+Vasc access complica- d/t dialysis (996.1:5),2
+Eclampsia (642.60:0),2
+Cystovaginal fistula (619.0:2),2
+Chronic sinusitis (473.9:0),2
+"Non-Hodgkin's lymphoma, NP (202.80:12)",2
+ARF w renal cortical necrosis (584.6:0),2
+Hypertension (401.9:3),2
+Parkinson plus syndrome (332.0:1),2
+Lung bulla (492.0:1),2
+Cancer bone + articular cartilage (170.9:0),2
+AP care for anemia in fetus (655.83:804),2
+"No recur ca bladder, FU post surg (V67.0:2)",2
+Ext hemorrhoid with complication (455.5:0),2
+Soft tissue sarcoma - pelvis (171.6:1),2
+Post-operative pneumonia (486:2),2
+Synovitis and tenosynovitis (727.00:0),2
+Rupture of artery (447.2:0),2
+"Suspect macrosomia, maternal care (655.80:9)",2
+# tibia shaft-open (823.30:0),2
+Post-procedural mitral stenosis (424.0:7),2
+"# Sacrum, No Neurology (805.6:2)",2
+Rotator cuff degenerative rupture (727.61:1),2
+Dislodge PEG tube (996.59:12),2
+Radiculopathy (729.2:3),2
+Streptococcal infection (041.00:0),2
+"CA tongue lateral border, right (141.2:4)",2
+Injury of urethra (867.0:2),2
+Scald (949.0:1),2
+Alcoholic fatty liver (571.0:0),2
+Neck stab wound (874.8:4),2
+Cl vault # cere lac+ contu no LOC (800.11:0),2
+Cl skul base # IC inju brf LOC (801.42:0),2
+Sarcoma of uterus (179:6),2
+AMI initial care episode (410.81:0),2
+Failed induction of labour (659.10:1),2
+"Aortic insufficiency, nonrheumatic (424.1:7)",2
+Vitamin B deficiency (266.9:0),2
+Nephrotic syndrome w membranous GN (581.1:0),2
+Intra-abdominal mass (789.30:6),2
+"Placenta previa, type III (641.00:4)",2
+Primary hyperparathyroidism (252.0:1),2
+"Coagulopathy, acquired (286.9:1)",2
+Terminal ileum ulcer (569.82:3),2
+Cancer of biliary tract (156.9:0),2
+Chronic kidney disease (585.9:10),2
+Pancreat cyst/pseudocyst (577.2:0),2
+Recur unilat inguin hernia w gangr (550.01:0),2
+Renal vein thrombosis (453.3:0),2
+"Intestinal obstruction, postop (560.9:2)",2
+Acute rapid progress glomeruloneph (580.4:0),2
+Thrombocythemia (238.7:4),2
+"Breast lump, right (611.72:3)",2
+Abnormal diagnostic image of lung (793.1:2),2
+Acute miliary TB (018.00:0),2
+Delivered with unstable lie (652.01:800),2
+Malign neopl breast (174.8:0),2
+Carcinoma of kidney (189.0:2),2
+Dermatomyositis in neoplastic dis (710.3:2),2
+Lymphedema (457.1:0),2
+CA posterior hypopharyngeal wall (148.3:0),2
+Burkitt lymphoma axilla + UL LN (200.24:0),2
+Ischemic ulcer (707.9:4),2
+Traum hemothorax+ open wd to thora (860.3:0),2
+Mitochondrial disease (359.8:3),2
+Polycythemia vera (238.4:0),2
+Cut Throat (874.8:2),2
+Serratia septicemia (038.44:0),2
+Closed anterior dislocation of hip (835.03:0),2
+Close # sacrum/ coccyx+ cord inj (806.60:0),2
+Benign neo liver / bile ducts (211.5:0),2
+Polycystic liver disease (751.62:1),2
+DRESS syndrome (288.3:3),2
+"Intracranial abscess, subdural (324.0:6)",2
+"Prev multiple Cesarean, delivered (654.21:1)",2
+Closed # hand (815.00:0),2
+M&B multi drug depend syndrome (304.90:4),2
+"Drug overdose, suicide (977.9:3)",2
+Prematurity complicate pregnancy (644.20:1),2
+Fracture of ischium-open (808.52:0),2
+Autoimmune disease (279.4:0),2
+Intrahepatic duct stone (574.50:4),2
+Aneurysm (442.9:0),2
+"CA thymus, heart, mediastinum (164.8:1)",2
+Transiti cell carcino urin bladder (188.9:4),2
+Foot sores (709.9:1),2
+Purulent myositis (728.0:1),2
+"TB lung cavitation, confirmed (011.26:0)",2
+Invasive squamous cell carcinoma (199.1:23),2
+Noninfl dis ova/adnx (620.8:0),2
+Chronic passive congestion liver (573.0:0),2
+# symphy mandib bdy-opn (802.36:0),2
+Subcutaneous hematoma (924.9:4),2
+Pelvic lymphoma (202.86:0),2
+Acu mastoiditis with complication (383.02:0),2
+Ext thrombosed hemorrhoid (455.4:0),2
+"Spleen parenchy disrupt, massive (865.04:0)",2
+Radionecrosis (990:1),2
+ERCP (51.10:0),2
+M&B disorder opioid harmful use (305.50:6),2
+Intrahepatic ductal stricture (576.2:6),2
+"Anaemia, unknown cause (285.9:2)",2
+Mal neo cerebellum (191.6:0),2
+Alcoholic withdraw percept disturb (291.81:2),2
+"Abdominal pain, right low quadrant (789.03:0)",2
+"AMI, post-op (410.90:2)",2
+Hx of gastric carcinoma (V10.04:1),2
+Observe- suspect mental condition (V71.09:0),2
+Foreign body in small bowel (936:5),2
+M4 monoblastic/monocytic leukaemia (206.00:10000),2
+Post-TURP bleeding (998.11:10),2
+Appendicular mass (789.30:3),2
+Thigh pain (729.5:5),2
+Central cord synd/C1-C4 (952.03:0),2
+Pemphigus (694.4:0),2
+Open # malar + maxillary (802.5:0),2
+Cauda equina injury (952.4:0),2
+Fracture five ribs-close (807.05:0),2
+Bleeding gastric erosion (535.41:1),2
+Penile urethral stricture (598.9:5),2
+Vertigo (780.4:3),2
+M&B alcohol dependence synd (303.90:7),2
+Corrosive gastritis (535.40:1),2
+Injury popliteal artery (904.41:0),2
+Skin erosion at generator site (996.61:2),2
+HT for maternal care (642.90:1),2
+Polycyst kidney autosom dominant (753.13:0),2
+Retropubic hematoma (568.81:3),2
+Bilateral renal stones (592.0:1),2
+Streptococcus pneumoniae (041.06:1),2
+Ac pyelonephritis w medull necros (590.11:0),2
+CA skin ear+ ext audit canal (173.2:0),2
+FB in intestine & colon (936:1),2
+Acute laryngitis (464.0:0),2
+Abnormal loss of weight (783.2:0),2
+Angiodysplasia smal bowel bleeding (569.85:2),2
+IVC thrombosis (453.2:3),2
+Swelling in head & neck (784.2:0),2
+Axillary lymphadenopathy (785.6:14),2
+Granulomatous vasculitis (447.6:9),2
+"Spinal stenosis, lumbosacral (724.02:1)",2
+"Ruptured Liver, Traumatic (864.04:1)",2
+"# clavicl, acrom end-cl (810.03:0)",2
+Herpes zoster ophthalmicus (053.20:1),2
+Osteoporosis (733.00:0),2
+Anal bleeding (569.3:2),2
+Temporal lobe necrosis (437.8:1),2
+Renal graft rejection (996.81:2),2
+Lymphoma (202.80:2),2
+Opioid dependence syndrome (304.00:0),2
+CA urinary bladder - dome (188.1:0),2
+Uncontrol typeII DM incip nephrop (250.42:1),2
+Bartholin's gland abscess (616.3:0),2
+Post hematopoiet stem cell transpl (V42.8:2),2
+Hx of esophageal cancer (V10.03:0),2
+Cancer connect/ soft tissue thorax (171.4:0),2
+"Diffuse, large cell non-Hodgkins (202.80:10003)",2
+Hx of ischemic stroke (438:1),2
+Portal hypertension (572.3:0),2
+Injury iliac vein (902.54:0),2
+Benign neoplasm heart (212.7:0),2
+Cancer of soft palate (145.3:0),2
+"Delivered, uterine atony + sec PPH (666.22:803)",2
+Chop wound injury to neck (874.8:1),2
+Ketamine abuse (305.90:5),2
+"Bladder injury, intraoperative (998.2:15)",2
+Endometriotic cyst ovary (617.1:1),2
+Nontoxic uninodular goiter (241.0:0),2
+Adverse effect medicin substance (995.2:999),2
+Interstitial pneumonia (516.8:5),2
+FB esophagus (935.1:0),2
+Previous Cesarean delivery (654.20:0),2
+Strongyloidiasis (127.2:0),2
+Colostomy status (V44.3:0),2
+Closed fracture of multiple ribs (807.09:0),2
+Parkinsonian syndrome (333.0:2),2
+Hepatic cystadenoma (211.5:3),2
+Recurrent depressive disorder (296.30:2),2
+"Transcervical # hip, open (820.12:1)",2
+Sequelae of open wound lower limb (906.1:2),2
+Non traumatic C1C2 subluxation (723.8:2),2
+Post-SAH (non-trauma) com hydrocep (331.3:2),2
+ERCP + replacement of stent (51.87:2),2
+Secondary ca liver (197.7:1),2
+"Delivered, ruptured uterus + PPPH (665.11:802)",2
+Mal neo labia majora (184.1:0),2
+Extraperitoneal hematoma - injury (868.00:1),2
+Streptococcus group A infection (041.01:0),2
+Multi drug mental/ behav disorder (292.9:25),2
+Hepatocellular adenoma (211.5:7),2
+Hx of CA tongue (V10.01:1),2
+Prolapsed colostomy (569.6:3),2
+"Malign heart & renal HT, CHF (404.01:0)",2
+Diverticulitis of small intestine (562.01:0),2
+High grade atrioventricular block (426.10:1),2
+Spleen capsular tear (865.02:0),2
+Mod MR sig impair behav atten/ tx (318.0:2),2
+TB cervical lymph node in neck (017.20:2),2
+Herpetic meningoencephalitis (054.3:0),2
+Budd-Chiari syndrome (453.0:0),2
+Close skull base # brief LOC (801.02:0),2
+Bone & cartilage disorder (733.90:0),2
+Epidural hematoma following injury (852.40:1),2
+"Pericarditis, Acute (420.90:0)",2
+Abn findings-lung field (793.1:0),2
+Drug induced depression (292.89:55),2
+Moderate depressive episode (296.22:1),2
+Lupus erythematosus (695.4:0),2
+Haemolysis (790.0:3),2
+Suppurative appendicitis (540.9:6),2
+Alcoholic liver disease (571.3:3),2
+Stenosis of carotid artery (433.10:5),2
+Pneumococcal sepsis (038.2:1),2
+Cancer of ileum (152.2:0),2
+Heat exhaustion (992.5:0),2
+Multiple system atrophy (337.9:6),2
+Infectious diarrhea (009.2:0),2
+Langerhan cell histiocytosis (277.8:1),2
+# C1 vertebra-closed (805.01:0),2
+Angiodysplasia stomach bleeding (537.83:2),2
+Hyperthyroidism (242.90:9),2
+Uterine fibroid polyp (218.9:5),2
+"Bowel obstruction, subacute postop (560.9:6)",2
+Follow-up after surgery (V67.0:0),2
+Popliteal artery aneurysm (442.3:5),2
+Infection due to coronavirus (079.89:3),2
+"Ileus, post-operative (997.4:30)",2
+Acute delirium (293.0:0),2
+Hepatic infarction (573.4:0),2
+Post PDU Patch Repair (V15.2:3),2
+"Spinal cord injury, C1-C4 level (952.00:0)",1
+"COVID-19, virus identified (519.8:9)",1
+Dehiscence gastrojejunostomy (997.4:7),1
+Pre-/ eclampsia- pre-exist HT PP (642.74:800),1
+Secondary HT by renal disorder (405.92:0),1
+"Skin melanoma, UL excl. shoulder (172.6:2)",1
+Cancer ribs/ sternum/ clavicle (170.3:0),1
+TB arthritis ankle & foot (015.90:3),1
+Cyanotic congenital heart disease (746.9:1),1
+Leukocytosis (288.8:1),1
+"RA, seronegative (714.0:3)",1
+Blastic NK-cell lymphoma (202.80:49),1
+Spinal arteriovenous malformation (747.82:1),1
+Bile duct stone+ acute chole & obs (574.31:0),1
+Air embolism complication (999.1:0),1
+Cong cystadenomatoid malform lung (748.69:1),1
+M&B disor opioid withdrawal state (292.0:60),1
+Sensorineural hearing loss (389.10:0),1
+Benign insulinoma (211.7:3),1
+Multiple chop wound lower limb (894.0:2),1
+"Pre-/ eclampsia- pre-exist HT, AP (642.73:800)",1
+Intes infec clostridium botulinum (005.1:1),1
+Acu general exanthemat pustulosis (709.8:22),1
+Acute spinal paralysis (344.12:1),1
+"Laceration of Nail Bed, Toe (893.1:1)",1
+Sciatica (724.3:0),1
+Pericarditis (420.90:3),1
+Anastomotic bleeding (998.11:1),1
+Clo# sku base lac+ contu no LOC (801.11:0),1
+Degenerative scoliosis (737.39:5),1
+Leukodystrophy (330.0:0),1
+Ca posterior mediastinum (164.3:0),1
+Sideroblastic anemia (285.0:0),1
+Acute stimulant intoxic w delirium (305.70:7),1
+Below knee amputation status (V49.75:0),1
+Hernia (553.9:0),1
+CSF drainage device in situ (V45.2:0),1
+Tubulo-interstitial nephritis (583.89:7),1
+Deliv w morbidly adherent placenta (667.02:1),1
+Fibrosing alveolitis (516.3:1),1
+CNS demyelination (341.9:0),1
+"# Radius Shaft, Open (813.31:0)",1
+Malf int orthped dev/grf (996.4:0),1
+Lyell's Syndrome (695.1:3),1
+GAVE with haemorrhage (537.83:4),1
+"Toxoplasmosis, meningoencephalitis (130.0:0)",1
+Streptococcus group D infection (041.04:0),1
+Heart injury closed (861.00:0),1
+Atten to previous Hartmann's op (V55.3:2),1
+Tracheomalacia (519.1:2),1
+Intestinal abscess (569.5:0),1
+Burn larynx/trachea/lung (947.1:0),1
+Sickle-cell anemia (282.60:0),1
+Generalized rash (782.1:2),1
+Ventricular septal defect (745.4:0),1
+Salmonella osteomyelitis (003.24:0),1
+Limbic encephalitis (323.8:1),1
+Death by hanging (799.8:32),1
+Open wound hand w tendon (882.2:0),1
+Postoperative complication (998.9:0),1
+"SLE GN syndrome, WHO class III (710.0:15)",1
+Post PTCA status (V45.82:0),1
+# Orbit (802.8:2),1
+Cancer of skin - face (173.3:0),1
+Uterine prolapse with cystocele (618.4:5),1
+Femoral Artery Thrombosi (444.22:6),1
+Closed skull vault # <1 hr LOC (800.02:0),1
+"Neuropathy, autonomic (337.0:1)",1
+"CA hypopharynx, other site (148.8:0)",1
+Malig neo abdomen (195.2:0),1
+Type I DM incipient nephropathy (250.41:4),1
+Sialoadenitis (527.2:0),1
+Cancer of prostatic urethra (189.3:6),1
+Observe for suspect toxic ingestio (V71.8:5),1
+Infection of intervertebral disc (722.90:3),1
+"Delivered, incomplete placenta (667.12:802)",1
+Disseminat atypi mycobacter infect (031.8:1),1
+Skin infection of toe (686.9:7),1
+Chickenpox with complication (052.8:0),1
+Large Bowel Adhesion (568.0:7),1
+Coxsackie virus infection (079.2:0),1
+Tongue disorder (529.8:0),1
+Cong esoph fistula/atres/sten (750.3:0),1
+Pheochromocytoma benign adrenal (227.0:1),1
+ICH postop (997.02:5),1
+Secondary ca brain (198.3:4),1
+Joint pain - multiple joints (719.49:0),1
+Rheum mitral stensis & aort regurg (396.1:1),1
+Iatrogenic Cushing's syndrome (255.0:2),1
+CA female genital organ (184.9:0),1
+"SLE GN syndrome, WHO class V (710.0:17)",1
+"Nontrau wd necrosis, no infe/dehis (785.4:6)",1
+Hemoglobin SS disease w crisis (282.62:0),1
+Mal hrt/ren hyp-no failr (404.00:0),1
+Benign neo mediastinum (212.5:0),1
+Serious+ compli Plas falci malaria (084.0:2),1
+Malignant tumor of face (195.0:5),1
+"Traumatic amputation wrist, comp (887.1:4)",1
+Residual VSD (745.4:5),1
+Gangrenous cecum (557.0:6),1
+Rectal erosion (569.89:1),1
+Metastasis to lumbar vertebra (198.5:11),1
+Cl skul base #-mod coma (801.43:0),1
+Headache (784.0:0),1
+Invasive carcinoma (199.1:20),1
+Hemorrhage rupture berry aneurysm (430:15),1
+Alcoholic chronic pancreatitis (577.1:1),1
+Single functioning kidney (593.9:9),1
+Subcutaneous Nodule (782.2:15),1
+Penicillosis (117.9:7),1
+Hyperviscosity (273.3:2),1
+Hypocellular bone marrow (284.9:10),1
+Rapid prog neph synd crescentic GN (583.4:9),1
+Osteonecrosis (730.10:15),1
+Myelitis (323.9:5),1
+HIV infection causing CNS disorder (042:16),1
+"Prev uterine myomectomy, delivered (654.91:1)",1
+Hemorrhagic bronchopneumonia (485:1),1
+Swallowed FB (938:1),1
+Slipped suprapubic catheter (996.39:6),1
+Esophageal erosion (530.89:2),1
+"Streptococcal sepsis, group B (038.0:5)",1
+Subtrochanteric # - open (820.32:0),1
+"Interstitial emphysema, lung (518.1:0)",1
+Renal infarction (593.81:2),1
+Pseudogout (275.4:28),1
+Phlebitis of portal vein (572.1:1),1
+Intestinal T-cell lymphoma (202.80:43),1
+Strangulated ventral hernia (552.20:1),1
+Limbic enceph paraneopla syndrome (323.8:3),1
+Rheumatic tricup stenosis w insuff (397.0:4),1
+Dominant RV + hypoplastic LV (746.89:135),1
+Limited systemic sclerosis (710.12:1),1
+Bleeding duodenal polyp (537.84:2),1
+Listeriosis meningitis (027.0:1),1
+Monoarthritis (716.60:0),1
+Stridor (786.1:0),1
+Pneumomediastinum (518.1:1),1
+Mal neo brain stem (191.7:0),1
+Delivered w impair glucose toleran (648.81:803),1
+Intersphincteric abscess anus (566:10),1
+Crushed chest (862.8:5),1
+Inj infer mesenteric art (902.27:0),1
+Acute fulminating viral hepatitis (070.9:5),1
+Reactive arthritis (716.80:2),1
+Juven idiopath arthritis undiffere (716.89:4),1
+Spondylo compress thoracic sp cord (721.41:0),1
+Disease of digestive system (569.9:3),1
+Uncontrol typeII DM drug hypoglyce (250.82:3),1
+Hemorrhage fr respiratory passage (786.3:2),1
+Lower limb pain (729.5:1),1
+Chemical esophagitis (530.10:3),1
+Anastomotic dehiscence (997.4:1),1
+Infective arthritis (711.90:0),1
+Thorac aortic thrombos & embolism (444.1:0),1
+Enterovirus infection (079.89:6),1
+Immune mechanism disorder (279.9:0),1
+Closed ant dislocation shoulder (831.01:1),1
+Blocked arteriovenous fistula (996.1:1),1
+Carotid artery embolism (433.10:2),1
+Neuropathy (349.9:7),1
+"Sepsis, post-op complication (998.59:11)",1
+Leprosy (030.9:0),1
+Pigmented lesion (709.00:1),1
+"Abdom/pelvic swelling, left upper (789.32:0)",1
+Drugs induced psychotic disorder (292.89:64),1
+"Splenic tear, traumatic (865.02:1)",1
+Bleeding from prostate (602.1:3),1
+"Stevens-Johnson syndrome, TENS (695.1:11)",1
+Close skull base # w ICH w/o LOC (801.31:0),1
+Ischaemic arterial insufficiency (447.1:5),1
+"# Radius Shaft, Closed (813.21:0)",1
+Sequelae of nontraumatic ICH (438:5),1
+Retained double J catheter (996.39:5),1
+Infect/ inflam by internal device (996.69:0),1
+Abn toxicologic finding (796.0:0),1
+Pleural fibroma (212.4:2),1
+TB abdomen (014.80:2),1
+Sinus arrest (426.6:2),1
+Uncontrol type I DM hyperosm coma (250.23:1),1
+Anaplas larg cell lymphoma ALK +ve (202.80:38),1
+Crusted scabies (133.0:2),1
+Cancer of penis (187.4:0),1
+Spinal cord injury (952.9:0),1
+Food problem (V65.8:4),1
+Displaced Tenckhoff catheter (996.59:5),1
+Atrophic gastritis (535.10:0),1
+"CA larynx - glottis, bilateral (161.0:3)",1
+Group B streptococcal septicemia (038.0:9),1
+Neutropenic typhlitis (540.9:5),1
+Skin lump (782.2:24),1
+Dominant LV + hypoplastic RV (746.89:134),1
+Closed dislocation of knee (836.50:0),1
+Harmful use of cocaine (305.60:4),1
+Cholecystoduodenal Fistu (575.5:1),1
+Fracture patella - open (822.1:0),1
+Ascorbic acid deficiency (267:0),1
+Acute esophagitis (530.10:2),1
+Delivered w gestation DM (648.81:801),1
+Malaise and fatigue (780.7:0),1
+Gingival & periodontal disease (523.9:0),1
+Perforated gastrojejunostomy (997.4:11),1
+Chronic osteomyelitis of foot (730.17:1),1
+Cut anterior tibial artery (904.51:1),1
+"Ureteric injury, postoperative (997.5:12)",1
+Efferent loop obstruct bowel (560.9:3),1
+Acute ulcerative colitis (556.9:4),1
+Wenckebach heart block (426.13:2),1
+Respiratory infection (519.8:5),1
+Tracheobronchitis (490:1),1
+Chest wall tumor (239.8:1),1
+"Pelvic hematoma, female postop (629.8:1)",1
+Bladder/urethra inj-clos (867.0:0),1
+Carcinoma of parathyroid gland (194.1:1),1
+"Diverticular large gut, perf + abs (562.10:8)",1
+Blurring of vision (368.8:1),1
+Delivered with respiratory disease (648.91:805),1
+Hematometra (621.4:0),1
+Parietal AVM (747.81:3),1
+Acute bronchitis by RSV (466.0:9),1
+Acute HIV infection syndrome (042:39),1
+Acute bronchiolitis due to hMPV (466.19:1),1
+Idiopathic myocarditis (422.91:0),1
+Multi drug & psycho subst harm use (305.90:9),1
+Gonococcal infection (098.0:2),1
+Prostatic disorder (602.9:0),1
+Acute disseminated demyelination (341.9:2),1
+"Cancer colon, continguous (153.8:1)",1
+Pain in limb (729.5:0),1
+"Mal neoplasm, adrenal cortex (194.0:12)",1
+Thumb traumatic amputate (885.0:0),1
+Bladder neck contracture (596.0:4),1
+Strepto arthritis knee (711.06:4),1
+Heart laceratio+ open wd to thorax (861.12:0),1
+Bleeding internal iliac vessel (459.0:3),1
+Injury popliteal vein (904.42:0),1
+Acute flaccid paralysis (344.9:1),1
+FB in stomach (935.2:0),1
+Chronic osteomyelitis (730.10:0),1
+Leukemic reticuloendotheliosis (202.40:0),1
+Disease of tongue (529.9:1),1
+Asc aorta dilation (Marfan syn) (441.2:3),1
+Atrial tachycardia (427.89:20),1
+Contusion of knee (924.11:0),1
+2nd degree AVB (426.13:0),1
+Postop pulmonary valve insuffiency (424.3:5),1
+Injury abdominal aorta (902.0:0),1
+Sprain ankle (845.00:0),1
+Pseudomonas intestinal infection (008.42:0),1
+Meatal stenosis (598.9:2),1
+Disorder of bone (733.90:9),1
+Social problem (V62.4:5),1
+Cyst of thyroid (246.2:0),1
+"Thalassemia, beta intermedia (282.4:10)",1
+"Abscess of head, except face (682.8:2)",1
+Alcohol withdrawal convulsion (291.81:4),1
+Influenza A H1N1 viral infection (487.1:9),1
+Oral mucositis (528.0:1),1
+Cancer pain (780.9:13),1
+Exhaustion-excess exert (994.5:0),1
+Submandibular gland infection (527.8:1),1
+Hydronephrosis w ureter stricture (591:8),1
+Calculus of bile duct (574.50:5),1
+Chronic gastritis (535.10:1),1
+Tumor of endocrine pancreas (239.7:10),1
+"Nodular lymphoma, inguinal (202.05:0)",1
+Post MI syndrome (411.0:0),1
+Sec PPH by place accreta deliv epi (666.22:2),1
+Tendency to fall (781.9:8),1
+Carotid cavernous fistula (437.3:1),1
+Bowel adhesion (568.0:4),1
+Cytopenia (289.9:7),1
+Radiation pneumonitis (508.0:1),1
+Post-kidney transplant GN (583.9:3),1
+Malignant hyperthermia (995.89:4),1
+Morbid obesity (278.01:0),1
+Cancer of tonsillar pillar (146.2:0),1
+Cerebell contus brief coma (851.42:0),1
+Dislocation shoulder-closed (831.00:0),1
+Body fluid retention (276.6:2),1
+Numbness (782.0:1),1
+Puerperal sepsis (670.04:2),1
+TB meningitis confirmed (013.06:0),1
+"Prolong 2nd stage- malpresent, AP (662.23:804)",1
+Screening for COVID-19 (V75.9:3),1
+Nephrotic synd w proliferative GN (581.0:0),1
+Spondylolisthesis degen (738.41:1),1
+Delivered with breech presentation (652.21:800),1
+"Fever >38C for 48 hours, post-op (998.89:6)",1
+Secondary to regional LN (196.9:3),1
+Acute inflam demyelin neuropathy (357.0:1),1
+"Perianal abscess, bilateral (566:2)",1
+Leaking from gallbladder bed (997.4:23),1
+Giant cell tumor long bones in LL (213.7:2),1
+"Pelvic peritoneal adhesion, female (614.6:0)",1
+Bipolar cur severe depress+ psych (296.54:4),1
+Hx-nose/ear/sinus malig (V10.22:0),1
+Ankle edema (719.07:2),1
+Sequelae of SAH (438:4),1
+Idiopathic kyphoscoliosis (737.30:8),1
+Injury radial artery wrist & hand (903.2:2),1
+Uncertain behav tumor kidney (236.91:2),1
+Gram positive bacterial infection (041.89:1),1
+Radiculopathy of lumbar region (724.4:33),1
+Leg abor w pelv inf-inc (635.01:0),1
+RVOT obst - septoparietal band (746.84:5),1
+Spondylo compress lumbar sp cord (721.42:0),1
+Bacillus fragilis infection (041.82:0),1
+Redness of eye (379.93:2),1
+Ben tumor skull/face bone (213.01:2),1
+Alcohol abuse (305.00:0),1
+Water intoxication syndrome (276.6:3),1
+Cong atresia extrahepati bile duct (751.61:3),1
+Post Whipple's operation (V45.89:20),1
+Op bs# cer lac+ con pro LOC regain (801.64:0),1
+Ca in situ rectum (230.4:0),1
+Cancer of sphenoidal sinus (160.5:0),1
+Renal Tubular Acidosis (588.8:3),1
+"Cardiomyopathy, delivery episode (648.61:2)",1
+Late effect Cx fail spinal surgery (909.3:1),1
+Aortitis (447.6:3),1
+VUJ stricture (593.3:4),1
+Double J stent in situ (V45.89:22),1
+Open skull vault # no coma (800.51:0),1
+Acute prostatitis (601.0:0),1
+"Bed sore, leg (707.0:5)",1
+Hallucinations (780.1:0),1
+Paraphimosis (605:2),1
+Chr sphenoidal sinusitis (473.3:0),1
+Clonorchiasis (121.1:0),1
+Invasive transition cell carcinoma (199.1:21),1
+Enteritis due to rotavirus (008.61:0),1
+Multi+ psych drug depen contin use (304.80:4),1
+Pyelitis (590.80:1),1
+"Mal post mediast tumor, germ cell (164.3:5)",1
+Cut posterior tibial artery (904.53:1),1
+Fistula of soft palate (528.9:30),1
+Myeloma kidney (203.00:4),1
+Hodgkin mixed cell multi site LN (201.68:0),1
+Hyperosmolality (276.0:2),1
+Herpes zoster meningitis (053.0:0),1
+Drug withdrawal syndrome (292.0:0),1
+Rectal Fistula (565.1:5),1
+Infective bursitis (727.3:2),1
+Benign neoplasm of pancreas (211.6:3),1
+Mediastinum disease (519.3:0),1
+Dihydropyrimidine dehydrogenas def (277.6:6),1
+Cancer of small bowel (152.9:0),1
+Disease of spinal cord (336.9:0),1
+Primary dilated cardiomyopathy (425.4:10),1
+GE salmonella D (003.0:4),1
+Abort w pel inf-inc (637.01:0),1
+Musculoskeletal anomaly (756.9:0),1
+Tumor infiltrate vertebral column (239.2:30),1
+Infection of vascular entry site (998.59:15),1
+Anal fistula (565.1:0),1
+Ganglion of tendon (727.42:0),1
+Type I DM with hypoglycemia (250.81:999),1
+Penile injury (959.1:5),1
+Elevate bld pressu not hypertensio (796.2:0),1
+Transfusion reaction (999.8:0),1
+Postherpetic neuralgia (053.19:1),1
+Chemical pneumonitis (506.0:2),1
+Hypertrophic cardiomyopathy (425.4:8),1
+Cavernous sinus thrombosis (325:2),1
+Uncer neo endocrine (237.4:0),1
+Acute hepatitis C with coma (070.41:0),1
+Oral lichen planus (528.9:22),1
+"Rupture uter befor labor onset, AP (665.03:800)",1
+Primary IgA nephropathy (583.89:20),1
+Pickwickian Syndrome (278.8:1),1
+Amebic colitis (006.9:1),1
+Bleeding AVF (996.74:4),1
+Giant cell tumor of pelvic bones (213.6:2),1
+"Vascular injury, postoperative (997.2:8)",1
+Brief depressive adjust reaction (309.0:1),1
+Amebic liver abscess (006.3:0),1
+Thrombosed arteriovenous fistula (996.74:1),1
+Psych dis by stimulant incl caffe (292.89:61),1
+Electrolyte disorder (276.9:1),1
+Myotonic muscular dystrophy (359.2:2),1
+Ankyl vert hyperostosis (721.6:0),1
+Unc behav neo bladder (236.7:0),1
+Intussusception of intestine (560.0:4),1
+Hx of CA oropharynx (V10.02:6),1
+Hip effusion (719.05:1),1
+Erosive esophagitis (530.10:4),1
+Cauda equina synd w neurog bladder (344.61:0),1
+Injury of knee (959.7:10),1
+PV bleed in early preg antepa care (640.93:801),1
+HIV infection with cancer (042:14),1
+PD catheter malfunction (996.59:8),1
+"Partial HELLP, delivery episode (642.51:3)",1
+Parvovirus infection (079.89:1),1
+# foot bone - closed (825.20:0),1
+Bursal cyst (727.49:3),1
+"CA oropharynx, posterior wall (146.7:0)",1
+Prostatism (600:7),1
+Ventilation pneumonitis (495.7:0),1
+Lower urinary tract stone (594.9:0),1
+Malign neopl scrotum (187.7:0),1
+Temporal AVM (747.81:7),1
+Hemorrhagic nephrosonephritis (078.6:0),1
+Bladder Outflow Obstruct (596.0:3),1
+"Threatened miscarriage, antepartum (640.03:800)",1
+Osteomyelitis cervical spine (730.28:6),1
+Mild MR no/ mini behavior impair (317:1),1
+Staphylococcus infection (041.10:0),1
+Venous malformation (747.60:7),1
+Spon incompl abort w exces bleed (634.11:0),1
+Corticobasal Degeneratio (331.9:1),1
+Alcohol depend continuous drinker (303.91:0),1
+"Moderate MR, with impair behavior (318.0:3)",1
+Petechiae of skin (782.7:2),1
+Respiratory acidosis (276.2:3),1
+Cancer of testis (186.9:0),1
+Megakaryo hyperplasia bone marrow (289.9:9),1
+Disease of pharynx (478.20:0),1
+Subluxation of lens (379.32:0),1
+Laryngeal papillomatosis (212.1:2),1
+Hx TIA (V12.59:1),1
+Spontaneous ecchymosis (782.7:0),1
+Pelvic abscess (567.2:15),1
+Small intest injury (863.20:0),1
+Abnormal ECG (794.31:0),1
+Churg-Strauss syndrome GN (446.4:1),1
+Dis urea cycle metabol (270.6:0),1
+Ornithine transcarbamylase def (270.6:7),1
+Benign neoplasm pleura (212.4:0),1
+Stem Cell Donor (V59.02:0),1
+# facial bone open (802.9:0),1
+Lung nodule (518.89:5),1
+Delivered with acute fatty liver (646.71:802),1
+Dislocation hip - closed (835.00:0),1
+Feeling ill (780.7:5),1
+Skin infection of finger (686.9:9),1
+"Headache, post traumatic (310.2:1)",1
+Neoplasm of soft tissue (239.2:41),1
+"Adhesion colic, abdominal (568.0:2)",1
+Close skul base #-mod coma (801.03:0),1
+Cancer urinary bladder - trigone (188.0:0),1
+General skin eruption by drug& med (693.0:5),1
+Abdo pain in delivery episode (648.91:906),1
+Pyuria (599.0:3),1
+Disseminated zoster (053.79:1),1
+Open dislocation of hip (835.10:0),1
+Bell's palsy (351.0:0),1
+Achalasia & cardiospasm (530.0:0),1
+Diaphragm hernia w obstruction (552.3:0),1
+Sinus histiocyto+ massiv lymphaden (277.8:26),1
+Bleeding AVG (996.74:3),1
+Gouty arthropathy (274.0:0),1
+Alcohol withdra delirium+ convulsi (291.0:4),1
+Lower lumbar spinal pain (724.4:22),1
+Alcohol withdra delirium no convul (291.0:3),1
+Tumor uncertain behavior mediastin (235.8:1),1
+CNS complication (349.9:1),1
+Hydropneumothorax (511.8:5),1
+Close dislocate 1st cervical verte (839.01:0),1
+Herpes zoster otitis externa (053.71:0),1
+Rathke's pouch cyst (253.8:9),1
+Mental+ behav disor by stimulant (292.9:17),1
+"Acute miliary TB, multi sites (018.00:2)",1
+Recurrent atlantoaxial subluxation (718.38:3),1
+Lumbar spondylolisthesis (738.41:8),1
+Delivered with APH (641.91:800),1
+Open wound elbow (881.01:0),1
+Dental caries (521.0:0),1
+Microorg infect resist carbapenem (V09.1:1),1
+Ment+ beh dis harmful use alcohol (305.00:1),1
+Leg pain (729.5:4),1
+Epiglottic cyst (478.79:5),1
+Pulmonary valve insufficiency (424.3:3),1
+Invasive pulmonary aspergillosis (117.3:3),1
+Concussion w/o coma (850.0:0),1
+Infec due to hrt device (996.61:0),1
+Perforating ulcer of the foot (707.1:12),1
+Infective enteritis (009.0:3),1
+Central cord synd/C5-C7 (952.08:0),1
+Papillary growth bladder (239.4:1),1
+Chr stom ulc w perf-obst (531.51:0),1
+Tachycardia (785.0:0),1
+Cyanosis (782.5:0),1
+TB peritonitis - exam unknown (014.02:0),1
+Acquired pure red cell aplasia (284.8:11),1
+Erysipelas (035:0),1
+Injury hepatic artery (902.22:0),1
+M&B disor acute cocaine intoxicat (305.60:5),1
+Spine stenosis cauda equina lesion (724.00:1),1
+Cong cystic kidney disease (753.10:0),1
+CA hypopharynx aryepiglottic fold (148.2:0),1
+Ca in situ stomach (230.2:0),1
+Tinea of foot (110.4:1),1
+Spondylolytic spondylolisthesis (738.41:2),1
+Multiple closed fractures (829.0:2),1
+Injury of blood vessel at forearm (903.8:7),1
+Aberrant R subclavian artery (747.69:5),1
+Benign neoplasm pancreas (211.6:0),1
+Intestinal stricture (560.9:13),1
+Malfunc prosth heart valve (996.02:0),1
+Injury multi blood vessel low leg (904.7:2),1
+Acute nephriti syndr crescentic GN (580.89:7),1
+"SLE GN syndrome, WHO class II (710.0:14)",1
+Doubly committed VSD (745.4:10),1
+"Chronic kidney disease, stage 5 (585.9:9)",1
+Cadaveric liver donor (V59.6:2),1
+Streptococcus group B infection (041.02:0),1
+Ketamine induc ment/ behav disor (292.9:16),1
+Non-alcoholic cirrhosis - A (571.5:4),1
+Mal neo long bones arm (170.4:0),1
+Penile ulcer (607.89:2),1
+Neck pain (723.1:1),1
+Diverticul small gut+ perfo+ absc (562.00:5),1
+Benign tumor of oral cavity (210.4:0),1
+Undifferentiat spondyloarthropathy (721.90:2),1
+Intestinal lymphangiectasis (457.1:3),1
+Cancer of pharynx (149.0:0),1
+Juv idio arthritis enthesitis rel (716.89:1),1
+Cereb infarct vein thrombo nonpyog (437.6:1),1
+Tracheal mass (786.6:2),1
+Faecal fistula (569.81:4),1
+Traumatic amputation of forearm (887.0:3),1
+Aneurysm & precereb artery dissect (442.89:2),1
+Swelling (780.9:36),1
+Acute herpes zoster (053.9:1),1
+Presenile dementia (290.10:0),1
+Postop pseudomeningocele (349.81:2),1
+Cancer of heart (164.1:0),1
+Opioid induced depression (292.89:51),1
+Superi mesente vein thrombosis (452:2),1
+Late Alzheimer dementia mix symp (290.0:7),1
+"Abnormal findings, stool contents (792.1:0)",1
+Unc behav neo lung (235.7:0),1
+Chronic antral gastritis (535.10:2),1
+Umbilical hernia (553.1:0),1
+Injury multi mus& tendon upper arm (840.8:5),1
+Iatrogenic pneumothorax (512.1:0),1
+Ext asthma w status asth (493.01:0),1
+Unc behav neo intestine (235.2:0),1
+Major hep lacer + open wd to cavi (864.14:0),1
+Crushing injury foot (928.20:0),1
+Spleen hematoma (865.01:0),1
+Ac maxillary sinusitis (461.0:0),1
+Ca adrenal (194.0:2),1
+Acute pyelonephritis post op (590.10:1),1
+Injury axillary artery (903.01:0),1
+Problem w swallowing (V41.6:0),1
+Mesenteric tumor (239.0:3),1
+Inj superfic femoral art (904.1:0),1
+"Desmoid tumor, connective tissue (238.1:4)",1
+Bipolar current manic no psych sym (296.43:1),1
+Fusobacteria infection (041.84:2),1
+Urethral bleeding (599.84:3),1
+Gallbladder adenomyomatosis (211.5:1),1
+M&B disor by opioid acute intoxic (305.50:7),1
+Swollen face (784.2:13),1
+Hemorrhagic cystitis (595.9:1),1
+Open wound back (876.0:0),1
+Recur depress cur severe no psych (296.33:2),1
+Myoclonus epilepsy+ rag red fiber (330.4:1),1
+Necrotizing vasculitis (447.6:6),1
+"Extradural hemorrhage, non-trauma (432.0:0)",1
+Polymyalgia rheumatica (725:0),1
+Leucoencephalopathy (323.9:3),1
+Fracture of ilium - closed (808.41:0),1
+Periph nerve injury - neurotmesis (957.9:4),1
+Colon injury (863.40:0),1
+Neurofibroma (215.9:9),1
+Traumatic hemomediastinum (862.29:5),1
+Mal neo conjunctiva (190.3:0),1
+Communicat hydrocephalus postop (331.3:4),1
+"Sinus of Valsalva aneurysm, NCC (747.29:14)",1
+Lower lip laceration (873.43:2),1
+Churg-Strauss syndrome (446.4:3),1
+Aseptic meningitis (047.9:1),1
+"Vaginal tear, delivery episode (665.41:1)",1
+Acute fulminant hepatitis (070.9:9),1
+Wrist pain (719.43:1),1
+Glycogenosis (271.0:0),1
+Alcohol withdrawal state (291.81:1),1
+"Fistula, gastro-colic (537.4:3)",1
+Uncontrol typeII DM periph neuropa (250.62:5),1
+Late effect spine/trunk # (905.1:0),1
+HIV result in candidiasis (042:29),1
+Obstructed incisional hernia (552.21:0),1
+Ischemic GE (557.9:3),1
+# mandible body open (802.38:0),1
+Non-dependent substance abuse (305.90:12),1
+Uveitis (364.3:1),1
+Muscle transfer (83.77:3),1
+Disorder of metabolism (277.9:0),1
+Open vault # prolong LOC regain (800.54:0),1
+LA thrombus (424.90:1),1
+Cerebell contus- mod coma (851.43:0),1
+Arteriovenous fistula (447.0:999),1
+Malig lymphoma axilla+ UL LN (202.84:0),1
+Stomach inj w/ open wd to cavity (863.1:0),1
+Male choriocarcinoma (186.9:1),1
+Non-artho viral disease CNS (049.9:0),1
+"Vaginal hematoma, obstetric injury (664.50:1)",1
+Acute hepatitis C infection (070.51:0),1
+TB bone by culture (015.74:0),1
+Embolism and thrombosis of artery (444.9:0),1
+Chyluria (791.1:0),1
+Varicose veins (456.8:0),1
+Spine ligament ossify non-cervical (724.8:4),1
+"Injury of trunk, chest, abdomen (959.1:4)",1
+Klebsiella pneumoniae (041.3:1),1
+"Wilm's tumor, kidney (189.0:4)",1
+Impaired renal funct (588.9:0),1
+Fracture two ribs-closed (807.02:0),1
+"Cancer of tonsil, right (146.0:1)",1
+Gestational HT (642.30:2),1
+Nocardiosis (039.9:1),1
+Slow progress in labor (661.20:5),1
+Arachnoiditis (322.9:1),1
+Injury to pancreas tail (863.83:0),1
+"GN, minimal change (581.3:1)",1
+Toxic gastroenteritis+ colitis (558.2:0),1
+Cerebral infarct-carotid occlusion (433.11:1),1
+Complication of transplanted organ (996.80:0),1
+"Trauma amp finger, Cx (886.1:0)",1
+Cervical neck mass (784.2:2),1
+Poisoned by soap/ detergent (989.6:0),1
+Spleen h'toma open wd to cavity (865.11:0),1
+APH abruptio placentae mater care (641.20:4),1
+Anaphylaxis (995.0:1),1
+"dummy code, pls enter dx (000:0)",1
+Drug induced cholestatic jaundice (782.4:1),1
+Uterine prolapse (618.1:0),1
+Prim local osteoarthro lower leg (715.16:0),1
+Unilateral renal dysgenesis (753.0:5),1
+Open wnd hip/ thigh- compl (890.1:0),1
+Drug-induced dystonia (333.7:2),1
+Close dislocate 5th cervical verte (839.05:0),1
+IUGR for maternal care (656.50:1),1
+# bimalleolar - closed (824.4:0),1
+Syphilit rupture cerebral aneurysm (094.87:0),1
+Ca face (195.0:3),1
+Granuloma pyogenicum (686.1:999),1
+Gastritis and duodenitis (535.50:3),1
+Carcinoma of hypopharynx (148.9:1),1
+Liver disorder in pregnancy (646.70:0),1
+CA uterus with rectal invasion (179:2),1
+Opn wound wrist w tendon (881.22:0),1
+Rheumat mitral + aortic incompete (396.3:1),1
+No ureteric stone (V71.9:20),1
+PVD (443.9:0),1
+Fiber-optic bronchoscopy (33.22:0),1
+1st degree uterovaginal prolapse (618.2:1),1
+Coronary atheroscle artery graft (414.04:0),1
+# larynx/trachea-open (807.6:0),1
+Hemorrhagic pancreatitis (577.0:3),1
+False tract in prostate (599.4:1),1
+Thyroiditis (245.9:0),1
+# lower femur epiphysis - open (821.32:0),1
+Open dislocation of foot (838.10:0),1
+Peripartum cardiomyopathy (648.60:27),1
+"Laceration of stomach, traumatic (863.0:1)",1
+Acute periodontitis (523.3:0),1
+"Gaped wound, abdomen (998.3:5)",1
+Fit (780.32:0),1
+Hx of CA larynx (V10.21:1),1
+ICH-intraventricular nontraumatic (431:7),1
+Delusional disorder (297.1:1),1
+Hx of schizophrenia (V11.0:0),1
+Hyperemesis gravidarum (643.00:2),1
+"Pyogenic arthritis, lower leg (711.06:0)",1
+"VIPoma, pancreas (211.7:999)",1
+Pelvic endometriosis (617.3:3),1
+Otitis externa infective (380.10:0),1
+Impaired glucose tolerance cx preg (648.80:2),1
+Disorder of cranial nerve (352.9:0),1
+"Delirium, psychotic (293.0:2)",1
+Dizziness and giddiness (780.4:0),1
+Spleen capsul tear open wd to cavi (865.12:0),1
+Skin & subcut tissue disorder (709.9:0),1
+Dermatitis due to radiation (692.82:0),1
+Sliding Hiatus Hernia (553.3:2),1
+Amputation arm unilat complicate (887.5:0),1
+Tongue disorders (529.9:0),1
+Residual deform of jaw from clefts (524.9:2),1
+"Thyroiditis, amiodarone induced (245.4:1)",1
+Nasal polyp (471.9:0),1
+Idiopathic peripheral neuropathy (356.9:0),1
+TB of organ by culture (017.94:0),1
+Latent syphilis (097.1:0),1
+Metastasis brain/spine (198.3:1),1
+Lower extremity aneurysm (442.3:0),1
+Benign neoplasm adrenal (227.0:0),1
+"Hodgkin disease, mixed cellularity (201.60:0)",1
+Hx of pancreatic carcinoma (V10.09:2),1
+Benign neoplasm ovary (220:0),1
+Atopic eczema (691.8:1),1
+Second malig neo ovary (198.6:0),1
+Traumatic AKA right leg (897.2:2),1
+Esophageal hemorrhage (530.82:0),1
+Abruptio placentae (641.20:2),1
+# metatarsal - closed (825.25:0),1
+Endo remove biliary stone (51.88:0),1
+Rheum aortic valve incompetence (395.1:1),1
+Athrscl extrm w rest pai (440.22:0),1
+Injury superior mesenteric vein (902.31:0),1
+Diagnostic colonoscopy (45.23:0),1
+Ben neo soft tissue head& neck (215.0:0),1
+Cervix intra-epithelial neoplasia (622.1:1),1
+Fungal meningitis (117.9:3),1
+Postablative hypothyroidism (244.1:0),1
+Open vault # w IC inj brief LOC (800.92:0),1
+Functional diarrhoea (564.5:0),1
+Vaginal tear w primary PPH (665.40:2),1
+Acquired aortic valve abnormality (424.1:0),1
+Papilloma (229.9:3),1
+TB spondylitis (015.00:3),1
+Intrauterine death (656.40:0),1
+Bacterial infection (041.9:0),1
+"Post-op bleed, req re-operation (998.11:13)",1
+Cervical incompetence - mat care (654.50:0),1
+Irradiation enteritis (558.1:999),1
+Fracture calcaneus - closed (825.0:0),1
+Diffuse connective tissue disease (710.9:0),1
+Disease of nasal cavity and sinus (478.1:0),1
+Stab wound (879.8:4),1
+Uremia (586:1),1
+Ac marginal ulcer w hem (534.00:0),1
+Asymptomatic bradycardia (427.89:13),1
+Wound due to animal bite (879.8:7),1
+Injury brachial vessels (903.1:0),1
+Cancer of skin (173.9:0),1
+Pacemaker battery exhaustion (996.01:3),1
+Unplan readm <1mth post dischar (V58.9:1),1
+"OGD w injection, stomach/duodenum (44.43:1)",1
+Congen deficiency of clot factors (286.3:0),1
+Cancer esophagus - abdominal (150.2:0),1
+Dysuria (788.1:0),1
+Malignant adrenal incidentoma (194.0:14),1
+Mal neo lymph-intrathor (196.1:0),1
+Cancer upper gum (143.0:0),1
+TB of organ (017.90:0),1
+Toxic encephalopathy (349.82:0),1
+# medial malleolus - closed (824.0:0),1
+Chorioamnionitis (658.40:1),1
+Intrahepatic cholestasis (576.8:5),1
+Late effect infect+ parasitic dise (139.8:0),1
+"Placenta previa, type II (641.00:3)",1
+Cervical disc displacement (722.0:0),1
+Open wound upper arm (880.03:0),1
+Bleeding gastroduodenitis (535.51:2),1
+"Abdominal pain, left low quadrant (789.04:0)",1
+Admit for removal internal fixator (V54.0:1),1
+Chronic cystitis (595.2:0),1
+Blow-out # orbital floor closed (802.6:0),1
+Cancer short bones ankle/ foot (170.8:0),1
+Traumat amputate below left knee (897.0:2),1
+Extradural h'mage brief coma (852.42:0),1
+Unc behav neo prostate (236.5:0),1
+Stoma retraction (997.4:4),1
+Metastasis to spleen (197.8:1),1
+Cervical disc dis w myelopathy (722.71:0),1
+OGD with injection - esophagus (42.33:10),1
+"Primary hypogonadism, male (257.2:4)",1
+Hyperparathyroid Seco (588.8:1),1
+Staphylococcal meningitis (320.3:0),1
+CA inner aspect of lower lip (140.4:0),1
+Coronary vessel aneurysm (414.11:0),1
+Open base # prolong LOC regain (801.54:0),1
+Thyroid Mass (246.9:1),1
+G6PD deficiency (V71.8:1),1
+Epidu intracr hematoma not trauma (432.0:4),1
+Toxic erythema (695.0:0),1
+Prolonged 2nd stage (662.20:0),1
+Metastasis to trachea (197.3:1),1
+"Embolism, Arterial (444.9:1)",1
+Idiopathic proctocolitis (556.2:1),1
+Syringomyelia (336.0:2),1
+Viral disease (078.89:1),1
+Secondary PPH w retained products (666.20:3),1
+TB bowel+ mesent gland- exam unkno (014.82:0),1
+GE salmonella C (003.0:3),1
+Olfactory neuroblastoma (160.0:6),1
+Lung mycobacterium infection (031.0:0),1
+Cerebral lupus (710.0:5),1
+Food poisoning (005.9:0),1
+Chr duod ulc hem+ perf+ obstru (532.61:0),1
+Renal artery stenosis (440.1:1),1
+Open wound toe (893.0:0),1
+PRV (238.4:1),1
+Person for genera psychiatric exam (V70.2:0),1
+Liver hemangioma (228.04:1),1
+Acute miliary TB by culture (018.04:0),1
+Anastomotic stricture (997.4:14),1
+Duodenum injury-closed (863.21:0),1
+Tricuspid valve disease (397.0:0),1
+Post-procedure tricuspid regurgit (424.2:3),1
+Abd aortic embolism (444.0:0),1
+Tuberous sclerosis (759.5:0),1
+Non-autoimmune Haemlytic Anaemia (283.10:0),1
+"Obstruct labour, persistant OP (660.30:1)",1
+Pre-ecl/ eclampsia on pre-exist HT (642.70:0),1
+Follow-up examination (V67.9:0),1
+Rheum AS and AR (395.2:2),1
+Bilateral renal impairment (593.9:2),1
+Cardiomyopathy for maternal care (648.60:28),1
+Catatonic schizophrenia (295.20:0),1
+Lipoma spermatic cord (214.4:0),1
+Open wound knee/ leg/ ankl (891.0:0),1
+Gastric leiomyoma (211.1:2),1
+Concuss prolong LOC no regain cons (850.4:0),1
+"CA female breast, right (174.8:2)",1
+Puerperal pyrexia (672.00:1),1
+AML - M4 (205.00:10004),1
+Rheumatic heart disease (398.90:0),1
+Hx of Malig Neo of NP (V10.02:9),1
+Viral wart (078.10:0),1
+Phimosis (605:3),1
+Complete heart block (426.0:1),1
+"Aortic dissect aneur, thoraco (441.03:1)",1
+Burn 40-49% (948.4:1),1
+Appendicitis with perforation (540.0:997),1
+Subdural hemorrhage LOC (852.26:1),1
+PUJ stone (592.1:2),1
+Cancer of retromolar trigone (145.6:1),1
+Angiodysplasia of intest (569.84:0),1
+Methanol poisoning (980.1:1),1
+Open # ankle (824.9:0),1
+Ostium primum defect (745.61:0),1
+Soft tissue sarcoma (171.8:1),1
+Lung injury (861.20:0),1
+Cancer of pineal gland (194.4:1),1
+Hairy cell leukemia (202.40:1),1
+Sigmoid volvulus (560.2:999),1
+Neurofibromatosis type 1 (237.71:0),1
+Bone infect - ankle (730.97:0),1
+Burns of multiple sites (946.0:0),1
+Mucocele of appendix (543.9:1),1
+"UVJ-stone, Rt (592.1:9)",1
+Open wound anterior abdomen (879.2:0),1
+Duplex Kidney (753.3:1),1
+Scalded skin syndrome (695.1:4),1
+Open # distal end radius only (813.52:0),1
+Abdo pain rt upper quad (789.01:1),1
+"Sarcoma of peritoneum, mesentery (158.8:11)",1
+Membranous colitis (564.1:1),1
+Cl sk w oth bone #/ cereb lac (804.10:0),1
+Complication d/t joint prosthesis (996.77:999),1
+Carcinoma of pharynx (149.0:1),1
+Back abscess (682.2:3),1
+Intestinal obstruction (560.89:0),1
+Adenocarcinoma lower esophagus (150.8:4),1
+"Obstet intervention, other reason (659.90:1)",1
+ALCL Ki-1 non-Hodgkins (202.80:10007),1
+Abscess (682.9:4),1
+Chronic bronchitis (491.9:0),1
+70-79% body burn / 70-79% 3rd (948.77:0),1
+Sarcoma of bone - pelvis (170.6:9),1
+Abdominal wall abscess (682.2:1),1
+Ca bladder - lateral wall (188.2:1),1
+Cellulitis and abscess (682.9:0),1
+"Angina, stable (413.9:1)",1
+"Fistula, vesico-vaginal (619.0:5)",1
+Aneurysm of artery (442.89:0),1
+Cl skull # prolo LOC return consci (803.04:0),1
+Acute myocardial infarction (410.90:0),1
+GU (531.90:4),1
+Cerebral cortex contusion (851.00:0),1
+Ca larynx - supraglottis (161.1:4),1
+M5 erythroleukaemia (207.00:10000),1
+Shock w/o trauma (785.59:0),1
+AAA (441.4:2),1
+Poison by medicine substance (977.9:0),1
+Ac renal failure (584.8:0),1
+Above elbow amputation status (V49.66:0),1
+"Femoral Hernia, Strangul (552.00:2)",1
+"ICH, nontraumatic (431:2)",1
+Bladder neck fibrosis (596.8:4),1
+Carcinoma of tongue (141.9:1),1
+Colonic polyp (569.0:6),1
+Multiple sclerosis (340:0),1
+"AML, M7 megakaryoblastic (205.00:10005)",1
+Peritonitis (567.8:0),1
+Noninfect gastroenteritis& colitis (558.9:0),1
+Epilepsy (345.90:4),1
+CA hypopharynx (148.8:1),1
+PPU (533.50:1),1
+Acute myeloid leukemia (205.00:999),1
+COAD (496:2),1
+AML M3 acute promyelocy in remiss (205.01:10003),1
+Carcinoma middle third esophagus (150.4:1),1
+ADU with perforation (532.10:1),1
+30-39% body surface burn (948.3:999),1
+ICH with LOC (853.06:0),1
+Noninfect lymph dis (457.8:0),1
+Carcinoma lower third esophagus (150.5:1),1
+M4 monoblastic/monocytic-remission (206.01:10000),1
+Cerebel contus-deep coma (851.45:0),1
+IO (560.9:12),1
+"AML, M1 without maturation (205.00:10001)",1
+"Hodgkin's disease, NS (201.50:10000)",1
+Lower third ureteric stone (592.1:1),1
+Acute arterial thrombosis (444.9:2),1
+Traumatic SAH (852.00:1),1
+Radiation cystitis (595.82:3),1
+Cancer esophagus - thoracic (150.1:1),1
+Carcinoma of liver (155.2:1),1
+Thyrotoxicosis (242.90:1),1
+Traumatic intracranial hematoma (853.00:0),1
+Carcinoma of floor of mouth (144.9:1),1
+Foot abscess (682.7:1),1
+DU (532.90:1),1
+Cerebral Abscess (324.0:3),1
+Malposition / malpresentation (652.90:2),1
+Acute leukemia (208.00:0),1
+No FB (V71.9:8),1
+Open wound external ear (872.00:0),1
+Urinary system symptoms (788.9:0),1
+Deliver single fresh stillbirth AN (V27.1:1),1
+Portal pyemia (572.1:0),1
+Disease of pericardium (423.9:0),1
+"Rupture chordae tendine, post AMI (429.5:1)",1
+Post ESWL steinstrasse (592.1:10),1
+Benign Neoplasm - Liver (211.5:4),1
+Swallowed corrosive (983.9:1),1
+Dental disorders (525.9:0),1
+Cancer of uterus (179:0),1
+Anemia megaloblastic fol (281.2:1),1
+Squamous cell carcinoma cheek (173.3:4),1
+Late eff cns abscess (326:0),1
+Carcinoma of nasal cavity (160.0:1),1
+Miliary TB by micro exam (018.93:0),1
+Germ cell tumor brain (191.9:999),1
+Tenosynovitis (727.00:1),1
+Warfarin OD (964.2:1),1
+Scalp mass (782.2:13),1
+Bronchoscopy (33.23:0),1
+Herpes simplex meningitis (054.72:0),1
+"Invasive ductal CA breast, female (174.9:3)",1
+"Thyrotoxicosis, toxic diffuse goit (242.00:1)",1
+Mesentic Infarction (557.0:11),1
+Placenta previa (641.00:0),1
+Bacterial pleural effusion (511.1:0),1
+Acute amebic dysentery (006.0:0),1
+"Urethral stricture, prostate (598.9:6)",1
+"Amput below elb, unilat (887.0:0)",1
+Vaginal tumor (239.5:10),1
+Multi chop wounds upper limb (884.0:1),1
+Ruptured eye ball (871.9:1),1
+Pregnancy induced HT (642.30:4),1
+Parox ventric tachycard (427.1:0),1
+Acute enterocolitis (558.9:9),1
+Traumatic amputation above knee (897.2:3),1
+Abdominal pain preg (789.00:1),1
+Viremia (790.8:0),1
+Rheumatic MR and AR (396.3:999),1
+"CA tongue lateral border, left (141.2:5)",1
+Carcinoma of anus (154.3:1),1
+Rectal & anal ulcer (569.41:0),1
+Chest wall nodule (782.2:6),1
+Chronic hep B with coma (070.22:0),1
+Hydatidiform mole (630:0),1
+Acute alcohol intoxicat continuous (303.01:0),1
+No lesion (V71.9:13),1
+Circulatory anomaly (747.9:0),1
+PAN related nephropathy (446.0:1),1
+Malignant tumor - cerebellum left (191.6:4),1
+Chronic anaemia (285.9:3),1
+Leiomyosarcom stomach antrum (151.2:2),1
+Postencephalitic syndrome (310.9:1),1
+"2nd degree heart block, Mobitz II (426.12:0)",1
+Embolism and thrombosis (453.9:0),1
+Juv rheumatoid arthritis (714.30:0),1
+"ALL, L2 (204.00:10001)",1
+Non-alcoholic cirrhosis - A (571.51:0),1
+Panhypopituitarism (253.2:0),1
+Acute gangrenous appendicitis (540.9:1),1
+Tuberculoma brain by culture (013.24:0),1
+Mixed mitral valve disease (394.9:2),1
+AN screening to locate placenta (V28.8:5),1
+Rib fracture with flail chest (807.4:1),1
+Primary TB by histology (010.95:0),1
+Molar Pregnancy (631:2),1
+Malig bone tumor chondrosarcoma (170.9:8),1
+Diagnostic sigmoidoscopy (45.24:1),1
+Postmenopausal spotting (627.1:1),1
+Mal neo head / face / neck (195.0:0),1
+Mosquito-borne fever (066.3:0),1
+Rheumatic mitral/aortic valve dis (396.9:0),1
+Emphysema result from procedure (998.81:0),1
+COPD w acute lower resp infection (496:3),1
+"Malig bone tumor, osteosarcoma (170.9:6)",1
+"Br present, flexed leg -mat care (652.20:5)",1
+AILD non-Hodgkins (202.80:10009),1
+Carcinoma intrahepatic bile duct (155.1:1),1
+# Talus Closed (825.21:1),1
+Diffuse NHL extranodal (202.80:26),1
+Primary prog TB pleurisy- histo (010.15:0),1
+Benign tumor bone/ joint spine (213.2:1),1
+FB anus/rectum (937:0),1
+"Pheochromocytoma, malignant (194.0:3)",1
+Dementia in Parkinson's disease (294.1:3),1
+Maternal pyrexia in labor (659.20:0),1
+Gestational DM w ketoacidosis (648.80:14),1
+Osteomyelitis - ankle (730.27:0),1
+Disseminated carcinoma (199.0:1),1
+"Vascular dementia, uncomplicated (290.40:2)",1
+"Cancer of testis, left (186.9:5)",1
+Hemorrhoid (455.6:0),1
+Brain tumor (239.6:0),1
+Cl skl w oth bone # coma (804.06:0),1
+Rheum AS and AI (395.2:1),1
+Lymphoblastic non-Hodgkins (200.10:2),1
+Carcinoma of pylorus of stomach (151.1:1),1
+Malig neo brain (191.9:0),1
+"Tricuspid insufficiency, nonrheuma (424.2:7)",1
+Lymphoproliferat dis (238.7:0),1
+Pineal gland tumor (239.7:5),1
+Maternal disease (648.90:2),1
+Arenaviral hemorrhagic fever (078.7:0),1
+Amphetamine OD (969.7:1),1
+Post CVA epilepsy (345.90:6),1
+Mixed Mullerian tumor of uterus (179:4),1
+Eosinophilia (288.3:0),1
+Candidal endocarditis (112.81:0),1
+"# clavicl, stern end-cl (810.01:0)",1
+Angiodysplasia w hemorr - upper GI (537.83:1),1
+Toxic multinodular goiter w crisis (242.21:0),1
+Central pontine myelinolysis (341.8:4),1
+Delivered with prematurity (644.21:800),1
+Raynaud's syndrome (443.0:0),1
+"Skin melanoma, vulva (184.4:3)",1
+Carcinoma of biliary system (156.9:3),1
+Cerebral degeneration (331.9:0),1
+Opn wound leg w tendon (894.2:0),1
+Pelvic recurrence (195.3:1),1
+FB in trachea (934.0:0),1
+Hard palate tumor (239.0:9),1
+Mucocele gallbladder (575.3:1),1
+Hx of malignancy (V10.9:0),1
+Dysentery (009.0:1),1
+Throat pain (784.1:0),1
+Inflammatory polyneuropathy (356.9:7),1
+Left ventricular hypertrophy (429.3:3),1
+Good's syndrome (279.00:1),1
+CA fallopian tube (183.2:0),1
+Laceration of tongue (873.64:1),1
+HIV result in multi infections (042:32),1
+Delivered with prolonged pregnancy (645.01:800),1
+Legally induced abortion (635.90:0),1
+Generalized lymphadenopathy (785.6:9),1
+Injury femoral vein (904.2:0),1
+Chronic mitral valve disease (394.9:4),1
+Perforation of proximal jejunum (569.83:5),1
+Delivered with severe PIH (642.31:802),1
+For exam potent bone marrow donor (V70.8:1),1
+Pyogenic granuloma (686.1:1),1
+Posttrauma wound infection (958.3:0),1
+Chronic glomerulonephritis (582.9:0),1
+Uncert behav neo uterus (236.0:0),1
+Bleeding rectal polyp (569.0:2),1
+Purulent endophthalmitis (360.00:0),1
+Anal cancer (154.3:0),1
+Hemangioma intra-abdom (228.04:0),1
+Gastrostomy site infection (996.69:3),1
+GI bleeding of newborn (772.4:4),1
+Strangulated Umbilical H (552.1:1),1
+Cancer of kidney and ureter (189.8:0),1
+Neph synd focal+ seg glomer lesion (581.89:1),1
+RVOT obstruction (746.84:2),1
+Schwannoma (215.9:4),1
+Person with cardiac device (V45.00:0),1
+Infected Tenckhoff catheter (996.68:2),1
+"Hand, foot & mouth disease (074.3:0)",1
+Mild depressive episode (296.21:1),1
+Traumatic extradural hemorrhage (852.41:0),1
+"Pseudoaneurysm, upper extremity (442.0:1)",1
+Drug-induced GE (558.2:1),1
+Calf mass (729.89:2),1
+"Lymphosarcoma, pelvic (200.16:0)",1
+Small bowel polyp with bleeding (569.89:7),1
+Toxic effect of carbon dioxide (987.8:3),1
+Infective arthritis of ankle (711.97:0),1
+Perineal Sinus (599.1:1),1
+Left side ulcerative colitis (556.5:0),1
+Carcinoid syndrome (259.2:0),1
+Tracheal Perforation (874.02:1),1
+Acute intoxication of substance (305.90:13),1
+Pancrea head inj+ open wd to cavit (863.91:0),1
+Toxic multinodular goiter (242.20:0),1
+"Paralytic syndrome, locked-in (344.81:0)",1
+Psychogenic vomiting (307.54:0),1
+"Premature ROM, antepartum care (658.13:800)",1
+Lymphangioma (228.1:0),1
+Epstein Barr virus infection (075:1),1
+Vocal paralysis bilateral partial (478.33:0),1
+Contracture of hip joint (718.45:1),1
+"Superficial laceration, hip&thigh (890.0:1)",1
+Thyrotoxicosis (242.80:0),1
+Infective meningitis (320.9:2),1
+# eight/more rib-closed (807.08:0),1
+Vagina h'toma obst inj delive epis (665.71:1),1
+Infection of intervertebral disk (722.90:2),1
+TB peritonitis confirmed (014.06:0),1
+Schizophrenia in remission (295.95:0),1
+Chordae tendinae rupture (429.5:0),1
+Mal neo occipital lobe (191.4:0),1
+Diagnostic flexible sigmoidoscopy (45.24:0),1
+"Meningocele, spinal (741.90:2)",1
+Sheehan's syndrome (253.2:1),1
+"Trauma amputat leg, unilateral (897.4:0)",1
+Injury renal artery (902.41:0),1
+Hyperparathyroidism (252.0:0),1
+Biliary colic (574.20:2),1
+Chronic hepatitis (571.40:0),1
+"Deep laceration finger,thumb, nail (883.1:1)",1
+Polymorphic VT (427.1:5),1
+Drug withdrawal with delirium (292.0:27),1
+Carcinoma of urethra (189.3:1),1
+Uncontrolled type II DM with IHD (250.82:5),1
+"Pyelonephritis, antepartum care (646.63:809)",1
+Cervical spondylosis (721.0:0),1
+Acute cocaine intoxication (305.60:1),1
+Herpes zoster dermatitis eyelid (053.20:0),1
+Testicular pain (608.89:11),1
+Aseptic necrosis bone post trauma (733.40:1),1
+APH from placenta previa type II (641.13:802),1
+Condyloma of cervix (078.10:1),1
+Liver Donor (V59.6:0),1
+Maxillary hyperplasia (524.01:0),1
+"Abdo wall hematoma, traumatic (922.2:2)",1
+Paracolic Abscess (567.2:7),1
+Peripheral neuropathy (356.9:2),1
+"Schizoaffective disorder, manic (295.70:4)",1
+Supravalvar localize aort stenosis (747.22:6),1
+IDDM with hyperosmolarity (250.21:1),1
+"OA, secondary (715.90:2)",1
+Urinary external stoma malfunction (997.5:8),1
+Coombs positive hemolytic anemia (283.0:2),1
+Acquired skull defect (738.10:1),1
+Gangrene by arterial insufficiency (447.1:4),1
+Complication by internal orth dev (996.78:0),1
+Seronegative arthritis (714.9:1),1
+Tonsillar mass (474.8:1),1
+Cancer of vulva (184.4:0),1
+Hx-lymphosarcoma (V10.71:0),1
+Tricuspid stenosis non-rheum (424.2:5),1
+Infected hydrocele (603.1:0),1
+"Heart failure, postpartum care (648.64:821)",1
+Metastasis to multiple sites (199.0:3),1
+Delivered w gestation type 2 DM (648.81:807),1
+Polyp of corpus uteri (621.0:0),1
+"Cardiomyopathy, postpartum care (648.64:805)",1
+Hydroureter (593.5:0),1
+PUJ stricture (593.3:2),1
+GI anastomotic ulcer postop (997.4:40),1
+Mechanical cx bone device& graft (996.4:10),1
+Staphylococcal sepsis (038.1:6),1
+Varicella pneumonitis (052.1:0),1
+Amputation arm+ hand unilat (887.4:0),1
+Influenza A H7 (487.1:5),1
+Atrioventricular septal defect (745.69:3),1
+Duodenal ulcer with obstruction (532.91:0),1
+Pathologic # specified site (733.19:0),1
+Secondary to distant LN (196.9:4),1
+Small bowel secondaries (197.4:1),1
+Atypical chest pain (786.50:1),1
+Open dislocation of joint (839.79:0),1
+Post MI angina (411.0:2),1
+Keratitis (370.9:0),1
+Cadaveric Kidneys Donor (V59.4:1),1
+Anomalies of spleen (759.0:0),1
+Palliative care (V66.7:0),1
+Generalized osteoarthritis (715.00:0),1
+Inj internal carotid art (900.03:0),1
+"Delivered, unfavourable cervix (654.61:804)",1
+Inj common carotid arter (900.01:0),1
+Acute viral hepatitis (070.9:4),1
+Chron active type B vir hepatitis (070.32:1),1
+Pulmonary cryptococcosis (117.5:3),1
+Septicaemia due to VRE (038.0:2),1
+Subdural effusion - meningitis (322.9:4),1
+Acute bronchitis by parainfluenza (466.0:8),1
+TB lymph node (017.20:0),1
+Delivered with puerperal pyrexia (672.02:801),1
+Recurrent & persistent hematuria (599.7:10),1
+Fatty liver (571.8:1),1
+# olecranon process ulna - open (813.11:0),1
+Dementia - Lewy body disease (294.1:27),1
+Delivered w blood stained liquor (658.81:801),1
+SLE with arthritis (710.0:4),1
+Pathologic # tibia (733.16:0),1
+Yellow fever (060.9:0),1
+Unilateral femora hernia (553.00:0),1
+Mal neo ant mediastinum (164.2:0),1
+Endometritis following abortion (639.0:5),1
+Streptococcus mitis group infect (041.09:1),1
+# distal ulna - open (813.53:0),1
+Mix anxiety & depressive (300.4:5),1
+Radiation proctitis (569.43:0),1
+Scrotal mass (608.89:3),1
+Aortic atherosclerosis (440.0:0),1
+Actinomycotic sepsis (039.9:4),1
+TB hip (015.10:0),1
+Injury renal vessel (902.40:0),1
+Leakage from gastrostomy (997.4:31),1
+Ruptured femoral aneurysm (442.3:4),1
+Hodgkin nodul sclero UL LN (201.54:0),1
+Chorea (333.5:0),1
+Streptococcus group C infection (041.03:0),1
+Perianal condyloma (078.19:2),1
+Open wound chest (875.0:0),1
+Unc behav neo ovary (236.2:0),1
+"Delivered, sec PPH + RPOG (666.22:802)",1
+Encounter for rehab procedure (V57.89:0),1
+Pseudarthrosis after fusion (733.82:5),1
+Dystonia (333.89:2),1
+Poison by salicylate (965.1:0),1
+Acute bronchitis by rhinovirus (466.0:10),1
+Glomerulonephritis (583.89:6),1
+"Adhesion bands, peritoneum (568.0:1)",1
+# fibula open (823.91:0),1
+Mal renal HT with renal (403.01:0),1
+Atresia of pulmonary valve (746.01:0),1
+Metastatic infection (136.9:3),1
+"Closed skull vault #, no LOS (800.01:0)",1
+"Shunt infection, ventricular (996.63:1)",1
+TB skin (017.00:1),1
+"Pyogenic arthritis, pelvis & thigh (711.05:0)",1
+Superior vena cava obstruction (459.2:999),1
+"Protein lose enteropathy, malabso (579.8:1)",1
+Juv myop enceph lact acido+ stroke (330.4:2),1
+Gastrojejunal ulcer (534.90:0),1
+Chronic dislocation of shoulder (718.31:1),1
+Penile plaque (607.0:1),1
+Open wound of trunk (879.6:0),1
+"Skin melanoma LL, not hip (172.7:3)",1
+Secondary malignant tumour (198.89:0),1
+Open wound of breast (879.0:0),1
+Regional enteritis small intestine (555.0:0),1
+# lower limb closed (827.0:0),1
+Close skull base # w ICH mod LOC (801.23:0),1
+Intestinal strongyloidiasis (127.2:2),1
+"Delivered, uterine rupture- labor (665.11:800)",1
+ICH with no LOC (853.01:0),1
+Nonrheum tricuspid valve disorder (424.2:0),1
+Trauma amputation foot at ankle (896.0:3),1
+Hemangioma intracranial (228.02:0),1
+Mycotic mycetomas (117.4:0),1
+Acute miliary TB by histology (018.05:0),1
+Prelabor rupt uter-unsp (665.00:0),1
+Cerebellar Degeneration (334.2:1),1
+Placenta accreta (667.00:5),1
+"# phalanx, hand - open (816.10:0)",1
+Complete les cord/T7-T12 (952.16:0),1
+Pulmonary HT >1/2 systemic (416.8:2),1
+Malignant neoplasm middle ear (160.1:0),1
+"# humerus, condyle-open (812.54:0)",1
+Face and neck injury (959.0:0),1
+Incisional hernia w gangrene (551.21:0),1
+Irreducible hernia (552.9:1),1
+Metastasis skull/vertebrae (198.5:3),1
+"Schizoaffective disorder, mixed (295.70:5)",1
+"APH placenta previa IV, mat care (641.10:6)",1
+Organic hallucinosis (293.82:1),1
+Adm for orthopedic aftercare (V54.8:1),1
+Acquired nasolacrimal stenosis (375.56:0),1
+Basilar occlude/stenosis + infarct (433.01:0),1
+Type II DM with maculopathy (250.50:10),1
+Met peritoneum (197.6:999),1
+"Hodgkin disease, thorax (201.92:0)",1
+Open wound foot- compl (892.1:0),1
+Postop hemorrhage > 1 litre (998.11:14),1
+Diaphragm injury (862.0:0),1
+Herpes simplex infection (054.9:0),1
+Right heart enlargement (429.3:4),1
+Bleeding tendency (286.9:6),1
+Developmental acetabular dysplasia (736.30:2),1
+Mycosis fungoides (202.10:0),1
+# scapula closed (811.00:0),1
+Megaloblastic anemia (281.3:0),1
+"Trauma, VU laceration (878.4:1)",1
+Porphyria (277.1:1),1
+Undifferentiated schizophrenia (295.90:2),1
+Cortical myoclonus (333.2:2),1
+Caisson disease (993.3:0),1
+Human papilloma virus infection (079.4:0),1
+Stab wound of abdomen (879.2:6),1
+Postpartum hemorrhage (666.10:1),1
+Genital tract infection w 2nd PPH (646.60:5),1
+Chron peptic ulcer w perfor/obstr (533.51:0),1
+Neurofibromatosis (237.70:0),1
+"Aortic aneurysm, syphilitic (093.0:0)",1
+Heart transplant status (V42.1:0),1
+Obstet intervention- social reason (659.80:3),1
+Live related liver donor (V59.6:1),1
+Anaerobic meningitis (320.81:0),1
+TB peripheral lymph node confirmed (017.26:0),1
+"Antepartum hemorrhage, matern care (641.90:0)",1
+Coagulation defect (286.9:0),1
+"Laceration Hip, Thigh, Deep (890.1:1)",1
+Cervical tear w primary PPH (665.30:2),1
+Mental+ behavior disor by alcohol (291.9:4),1
+RPOC after delivery (666.20:1),1
+Hx-uterus malignancy (V10.42:0),1
+Superf inj head infected (910.9:0),1
+Peripheral vertigo (386.10:0),1
+Leakage fr pancreatic tail (997.4:17),1
+Cholangiogram (87.54:0),1
+Opioid abuse (305.50:0),1
+Giant cell arteritis (446.5:0),1
+Retained placenta (667.00:0),1
+Residual pulmonary valve stenosis (417.8:10),1
+Carbuncle of face (680.0:1),1
+Post traumatic (V15.5:1),1
+Bile leakage from T-tube (997.4:3),1
+Hx of myeloid leukemia (V10.62:0),1
+Gaped episiotomy wound (674.20:1),1
+Encephalomyelitis (323.9:1),1
+Screen-rickettsial dis (V75.0:0),1
+Prolonged latent phase of labour (661.00:2),1
+Acute duodenal ulcer w obstruction (532.31:0),1
+Hearing loss (389.9:0),1
+Neck hematoma (920:2),1
+Pleurisy (511.0:0),1
+Acute miliary TB by micro exam (018.03:0),1
+Nontoxic multinodular goiter (241.1:0),1
+Inj kidney+ open wd to cavity (866.10:0),1
+Gallbladder polyp (575.6:1),1
+Postoperative emphysema (998.81:1),1
+Beta E thalassemia (282.4:11),1
+Methemoglobinemia (289.7:0),1
+"Uterine rupture, obstetric injury (665.10:4)",1
+"OGD w thermo, stomach/duodenum (44.43:2)",1
+Forceps/ vacuum extractor delivery (669.50:0),1
+Vesical fistula (596.2:0),1
+Open wound finger (883.0:0),1
+Panuveitis (360.12:0),1
+Ca biliary tract for maternal care (648.90:175),1
+Anaerobic septicemia (038.3:0),1
+Malposit/ malpresent maternal care (652.90:0),1
+Appendicitis (541:0),1
+Lung laceration (861.22:0),1
+Post-hx (non-trauma) hydrocephalus (331.3:6),1
+Psychomot ep-intractable (345.41:0),1
+Superficial laceration of arm (880.03:1),1
+Metastasis to spinal cord (198.3:5),1
+SLE with lung involvement (710.0:7),1
+Idiopathic fibrosing alveolitis (516.3:0),1
+Diverticula of small intestine (562.00:1),1
+ERCP & ENBD (51.86:2),1
+Thalassaemia trait (282.4:2),1
+"Heart tumour, benign (212.7:1)",1
+Myiasis (134.0:0),1
+Trigeminal neuralgia (350.1:0),1
+Coronary angiography (88.57:1),1
+Adenoma of sigmoid colon (211.3:8),1
+Diarrhea presumed infectious (009.3:0),1
+Fail abort cx genital& pelv infect (638.0:0),1
+Tenosynovitis foot/ankle (727.06:0),1
+Patent foramen ovale (745.5:7),1
+Grafted renal artery thrombosis (996.81:1),1
+Benign neoplasm small bowel (211.2:0),1
+Stricture (560.9:4),1
+Osteomyelitis Tibia (730.06:1),1
+Subluxation vertebra (839.40:1),1
+Op - accid perf rectum (998.2:8),1
+"Old TB, affecting CNS (137.1:0)",1
+TB abscess of brain (013.30:0),1
+Delivered with preterm labor (644.21:801),1
+Above knee amputation status (V49.76:0),1
+Pelvic secondaries (198.89:1),1
+Restrictive lung disease (518.89:1),1
+Iatrogenic hypothyroidism (244.3:0),1
+Benign monoclonal gammopathy (273.1:2),1
+Adjust reaction w withdrawal (309.83:0),1
+Radiation proctitis with bleeding (569.43:1),1
+Iliofemoral embolism (444.81:4),1
+Rectal prolapse (569.1:0),1
+"Hemihypertrophy, congenital (759.89:9)",1
+Malfunction cardiac device/ graft (996.00:0),1
+Iliac artery embolism / thrombosis (444.81:0),1
+Vocal paral unilat part (478.31:0),1
+Genital prolapse in female (618.9:0),1
+"Hypten heart and renal, both fail (404.93:0)",1
+Cervix intraepithelia neoplasia II (622.1:3),1
+Supracondylar # femur - open (821.33:0),1
+Sacroiliitis (720.2:0),1
+TB meningitis - exam unknown (013.02:0),1
+Malunion of fracture (733.81:0),1
+Osteomyelitis of vertebral body (730.28:2),1
+Acute peptic ulcer w perfor/hemorr (533.20:0),1
+Peritoneal disorder (568.9:0),1
+"Acute fatty liver, antepartum care (646.73:802)",1
+Rehabilitation proc (V57.9:0),1
+Non-traumatic spinal SAH (336.1:4),1
+Bleeding in cervix uteri (622.8:4),1
+Cancer of tongue - ventral (141.3:0),1
+Major joint infection (711.90:1),1
+Rickettsialpox (083.2:0),1
+Hematoma at generator site (996.72:1),1
+"Blister hip, leg, thigh, ankle (916.2:0)",1
+Anastomotic ulcer (997.4:15),1
+Protein lose enteropa-not malabso (569.89:6),1
+"Prolonged 1st stage- CPD, AP (662.03:801)",1
+Pre-eclampsia for postpartum care (642.44:801),1
+Cong hered musc dystrophy (359.0:0),1
+Cancer (199.1:0),1
+Postoperative infection (998.59:0),1
+Uncertain behav tumor soft tissue (238.1:0),1
+Delivered with transverse lie (652.31:801),1
+Periorbital abscess (376.01:1),1
+Open wound of upper limb (884.0:0),1
+Senile nuclear cataract (366.16:0),1
+Chop wound (879.8:1),1
+"Delay intracranial hematom, trauma (853.00:2)",1
+Thrombocytopenic purpura (287.3:1),1
+Antenat screening fetal wellbeing (V28.8:1),1
+Esophageal stricture & stenosis (530.3:0),1
+Alpha thalassemia trait (282.4:3),1
+Acquired hypothyroidism (244.8:0),1
+Contusion of thigh (924.00:0),1
+Arterial catheterisation (38.91:0),1
+Stitch granuloma (998.89:1),1
+Ethmoidal Sinusitis (473.2:1),1
+Leakage (997.4:10),1
+Chr rheumatic pericard (393:0),1
+Type I DM + hypoglycemic coma (250.31:2),1
+Cancer retroperitoneum/peritoneum (158.8:16),1
+Omental Torsion (560.2:2),1
+Varicose veins of leg (454.9:0),1
+"Biliary atresia, congenital (751.61:0)",1
+Intestinal infection due to E coli (008.00:0),1
+"Legal abort w pelv damage, incompl (635.21:0)",1
+Hx of CA gum (V10.02:2),1
+Infective arthritis shoulder (711.91:0),1
+Adjustment disorder (309.9:0),1
+Alcohol related disorder (291.9:3),1
+Carcinoma of ureter (189.2:1),1
+Von Hippel-Lindau syndrome (759.6:1),1
+CA-MRSA infection (041.11:3),1
+Abort w hemorr-inc (637.11:0),1
+Multi cerebra art occlude + infarc (433.31:0),1
+"Phylloides tumor, breast (239.3:1)",1
+Delivered with adherent placenta (667.02:801),1
+Chr duoden ulc perf+ obst (532.51:0),1
+"Lumbosacral spondylolisth, congen (756.12:1)",1
+"Placenta previa type IV, AP (641.03:805)",1
+"Spinal dysraphism, all types (741.90:1)",1
+Open wound upper arm - complic (880.13:0),1
+Residual aorti valve regurgitation (424.1:6),1
+Pul artery atresia + VSD (747.3:13),1
+Burn lower limb (945.00:0),1
+Duodenum inj+ open wd to cavity (863.31:0),1
+"Obstructed labor- persist OT, AP (660.33:802)",1
+Cecal mass (569.9:1),1
+Post abor/ec preg gen trac pel inf (639.0:0),1
+Congenital complete heart block (746.86:1),1
+Benign tumor of uterus (219.9:0),1
+Rheumatic mitral valve disease (394.9:0),1
+Poison by cardiotonic glycoside (972.1:0),1
+Abn/ unsat cardiotocogram antepart (656.93:801),1
+Follicular lesion of thyroid (246.2:2),1
+Alveolar maxillary hyperplasia (524.71:0),1
+Rupture 2 Ca liver (573.8:6),1
+Thyroid cyst (246.2:3),1
+"# humerus, condyle - closed (812.44:0)",1
+Ventricular premature beats (427.69:1),1
+"Cancer nasocavity, mid ear, sinus (160.8:0)",1

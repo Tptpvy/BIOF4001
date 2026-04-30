@@ -1,9 +1,0 @@
-Model,OR for CD (95% CI),P-value
-In-hospital - Crude,2.26 (2.22-2.30),<0.0001
-In-hospital - Age+Sex adjusted,2.43 (2.38-2.47),<0.0001
-In-hospital - Age+Sex+Onset adjusted,2.41 (2.37-2.46),<0.0001
-,,
-28-day - Crude,1.61 (1.58-1.64),<0.0001
-28-day - Age+Sex adjusted,1.73 (1.69-1.76),<0.0001
-28-day - Age+Sex+Onset adjusted,1.73 (1.69-1.76),<0.0001
-,,
